@@ -23,10 +23,10 @@ public class GeminiService {
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(MediaType.APPLICATION_JSON);
 
-        // O prompt que vamos mandar para a IA analisar
+       
         String prompt = "Atue como um analista de dados sênior da Nissan. Analise os seguintes dados de vendas e crie um parágrafo de resumo gerencial curto. Dados: " + dadosDeVendas;
         
-        // Montando o corpo da requisição no formato que o Google exige (JSON)
+        
         String requestBody = "{\"contents\":[{\"parts\":[{\"text\":\"" + prompt + "\"}]}]}";
         
         HttpEntity<String> request = new HttpEntity<>(requestBody, headers);
