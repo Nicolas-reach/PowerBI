@@ -9,10 +9,32 @@ Ideia do projeto: em vez de arrumar a planilha na mão toda semana,
 este script faz a limpeza sozinho em segundos.
 """
 
+from pathlib import Path
+
 import pandas as pd
 
-ARQUIVO_ENTRADA = "dados/vendas_brutas.csv"
-ARQUIVO_SAIDA = "dados/vendas_tratadas.csv"
+BASE_DIR = Path(__file__).resolve().parent
+ARQUIVO_ENTRADA = BASE_DIR / "dados" / "vendas_brutas.csv"
+ARQUIVO_SAIDA = BASE_DIR / "dados" / "vendas_tratadas.csv"
+
+# Catálogo oficial de modelos: garante o nome certo mesmo pra casos que
+# title() erraria (ex.: "GT-R" viraria "Gt-R", "e-POWER" viraria "E-Power")
+MODELOS_VALIDOS = {
+    "kicks": "Kicks",
+    "sentra": "Sentra",
+    "versa": "Versa",
+    "frontier": "Frontier",
+    "march": "March",
+    "leaf": "Leaf",
+}
+
+
+def padronizar_modelo(valor):
+    """Usa o nome oficial do catálogo; se o modelo não está na lista, cai pra title()."""
+    if pd.isna(valor):
+        return valor
+    chave = valor.strip().lower()
+    return MODELOS_VALIDOS.get(chave, valor.strip().title())
 
 
 def carregar(caminho):
@@ -27,8 +49,8 @@ def limpar_texto(df):
     for coluna in ["modelo", "concessionaria", "regiao", "vendedor"]:
         df[coluna] = df[coluna].str.strip()
 
-    # Padroniza o nome do modelo: "kicks", "KICKS", " Kicks " -> "Kicks"
-    df["modelo"] = df["modelo"].str.title()
+    # Padroniza o nome do modelo pelo catálogo oficial: "kicks", "KICKS", " Kicks " -> "Kicks"
+    df["modelo"] = df["modelo"].apply(padronizar_modelo)
 
     # Padroniza a concessionária: "nissan zona sul" -> "Nissan Zona Sul"
     df["concessionaria"] = df["concessionaria"].str.title()
@@ -44,6 +66,8 @@ def converter_preco(valor):
     if pd.isna(valor):
         return None
     texto = str(valor).replace("R$", "").strip()
+    if texto == "":
+        return None
     # Se tem vírgula, está no formato BR (ponto = milhar, vírgula = decimal)
     if "," in texto:
         texto = texto.replace(".", "").replace(",", ".")
@@ -71,13 +95,26 @@ def tratar_datas(df):
 
 
 def remover_problemas(df):
-    """Remove linhas duplicadas e linhas sem informação essencial."""
+    """Remove linhas duplicadas (mesmo id_venda) e linhas sem informação essencial."""
     antes = len(df)
-    df = df.drop_duplicates()
+    # Duplicata de verdade = mesmo id_venda, não "linha inteira igual" (duas vendas
+    # distintas podem coincidir em todos os outros campos por acaso)
+    df = df.drop_duplicates(subset=["id_venda"])
+    duplicadas = antes - len(df)
+
     # Descarta linhas sem data, sem unidades ou sem preço (não dá pra usar)
+    antes_incompletas = len(df)
     df = df.dropna(subset=["data", "unidades", "preco_unitario"])
-    depois = len(df)
-    print(f"Removidas {antes - depois} linhas problemáticas (duplicadas ou incompletas).")
+    incompletas = antes_incompletas - len(df)
+
+    # Região em branco não invalida a venda, só marca como não informada
+    df["regiao"] = df["regiao"].fillna("Não informado")
+
+    # Depois do dropna não sobra NaN em 'unidades', então dá pra virar inteiro
+    # de verdade (sem o ".0" que o Power BI mostraria como decimal)
+    df["unidades"] = df["unidades"].astype(int)
+
+    print(f"Removidas {duplicadas} linhas duplicadas e {incompletas} linhas incompletas.")
     return df
 
 
@@ -99,7 +136,7 @@ def main():
     df = remover_problemas(df)
 
     # Reordena as colunas para ficar organizado
-    df = df[["data", "ano", "mes", "modelo", "concessionaria", "regiao",
+    df = df[["id_venda", "data", "ano", "mes", "modelo", "concessionaria", "regiao",
              "vendedor", "unidades", "preco_unitario", "receita"]]
 
     df.to_csv(ARQUIVO_SAIDA, index=False, encoding="utf-8-sig")

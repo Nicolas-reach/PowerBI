@@ -1,229 +1,229 @@
-data,modelo,concessionaria,regiao,unidades,preco_unitario,vendedor
-2025-06-13,kicks,Nissan Centro,Nordeste,4,132167.35,Ana Souza
-09-01-2025,Kicks,Nissan Centro,Sul,4,137118.99,Ana Souza
-2025-02-26,frontier ,Nissan Norte,Nordeste,1,"R$ 272.647,69",Bruno Lima
-15-07-2025,VERSA,Nissan Centro,Sudeste,7,"R$ 115.508,78",Carla Dias
-2025-02-01,Frontier,Nissan Centro,Norte,5,275033.88,Elaine Costa
-12/01/2025,Sentra ,Nissan Zona Sul,Sudeste,4,"R$ 201.902,15",Diego Reis
-01/04/2025,Sentra ,Nissan Oeste,Nordeste,2,"R$ 195.545,54",Bruno Lima
-2025-08-25,March,Nissan Centro ,Nordeste,1,"R$ 88.179,86",Ana Souza
-26-05-2025,VERSA,Nissan Centro ,Centro-Oeste,7,127801.06,Diego Reis
-2025-03-09,Leaf,nissan zona sul,Norte,7,319059.05,Bruno Lima
-09-02-2025, Sentra,Nissan Oeste,Centro-Oeste,2,190003.75,Elaine Costa
-03/01/2025,kicks,Nissan Oeste,Norte,5,"R$ 141.738,91",Carla Dias
-2025-07-04,Versa,Nissan Norte,Sul,2,"R$ 127.580,09",Carla Dias
-15/07/2025, Sentra,Nissan Norte,Norte,,"R$ 195.293,93",Diego Reis
-03/03/2025,Leaf,Nissan Centro,Sudeste,8,337946.57,Elaine Costa
-12-02-2025,Versa,Nissan Norte,Norte,7,"R$ 129.044,06",Elaine Costa
-21-06-2025,VERSA,nissan zona sul,,8,"R$ 115.887,67",Bruno Lima
-2025-02-26,Kicks,Nissan Centro,Sudeste,4,"R$ 129.432,88",Ana Souza
-2025-05-05,Sentra ,Nissan Norte,Sul,8,186502.03,Diego Reis
-2025-04-01,Frontier,nissan zona sul,Centro-Oeste,1,"R$ 269.759,72",Ana Souza
-18/02/2025,March,nissan zona sul,Sul,7,87646.81,Diego Reis
-2025-08-08,March,Nissan Centro,Sudeste,1,96837.26,Bruno Lima
-20/08/2025,Kicks,Nissan Centro ,Centro-Oeste,1,"R$ 145.542,17",Carla Dias
-07-07-2025,March,Nissan Oeste,Centro-Oeste,3,"R$ 87.721,81",Bruno Lima
-2025-03-22,Kicks,Nissan Centro,Norte,8,137075.02,Elaine Costa
-18-01-2025,Leaf,Nissan Centro,Sul,7,"R$ 308.987,28",Elaine Costa
-18/06/2025,Leaf,Nissan Norte,Norte,6,"R$ 342.883,78",Bruno Lima
-2025-06-21,Versa,nissan zona sul,Nordeste,2,114145.32,Elaine Costa
-10-05-2025,Versa,Nissan Centro ,Nordeste,2,127716.62,Carla Dias
-2025-06-06,March,Nissan Centro,Norte,5,96401.55,Ana Souza
-10/07/2025,March,Nissan Centro ,Nordeste,5,92576.51,Carla Dias
-06/03/2025,Kicks,Nissan Centro,Centro-Oeste,5,"R$ 129.023,72",Carla Dias
-24-04-2025,March,Nissan Oeste,Centro-Oeste,1,86808.92,Bruno Lima
-2025-04-21, Sentra,Nissan Centro,Nordeste,6,202704.84,Ana Souza
-2025-04-01,March,nissan zona sul,Norte,3,96331.44,Bruno Lima
-2025-01-07, Sentra,Nissan Oeste,Nordeste,7,"R$ 200.315,21",Bruno Lima
-10/01/2025,frontier ,Nissan Centro ,Sul,8,"R$ 258.818,45",Bruno Lima
-10/08/2025,kicks,Nissan Zona Sul,,7,"R$ 140.175,54",Elaine Costa
-2025-03-09,Kicks,Nissan Centro,Norte,7,"R$ 134.316,81",Carla Dias
-28-05-2025,Sentra ,Nissan Zona Sul,Sudeste,7,180541.77,Elaine Costa
-04/04/2025,Frontier,Nissan Centro,Nordeste,6,269422.5,Ana Souza
-25-03-2025,Frontier,Nissan Oeste,Nordeste,3,253484.2,Diego Reis
-14/04/2025,March,Nissan Centro,Nordeste,5,"R$ 87.959,14",Elaine Costa
-2025-02-24,March,nissan zona sul,Sul,2,88820.3,Elaine Costa
-27/02/2025,Sentra ,Nissan Centro ,Sudeste,1,"R$ 186.547,61",Diego Reis
-2025-06-11,Leaf,Nissan Centro ,,8,320625.56,Bruno Lima
-2025-02-26, Sentra,Nissan Oeste,Norte,8,181740.39,Bruno Lima
-20-06-2025,March,Nissan Norte,Norte,6,"R$ 96.615,46",Diego Reis
-21-08-2025,March,nissan zona sul,Sul,8,"R$ 90.765,82",Bruno Lima
-2025-03-03,Versa,nissan zona sul,Sudeste,5,"R$ 117.658,10",Carla Dias
-2025-04-09, Sentra,Nissan Oeste,Sul,2,190747.24,Carla Dias
-10/04/2025,Leaf,Nissan Oeste,Sudeste,7,323842.36,Carla Dias
-08-07-2025,March,Nissan Norte,Sul,8,88067.23,Diego Reis
-14-04-2025, Sentra,nissan zona sul,,1,"R$ 202.901,14",Elaine Costa
-10/08/2025,frontier ,Nissan Centro ,Sudeste,5,"R$ 259.813,71",Bruno Lima
-2025-08-01,Frontier,Nissan Zona Sul,Sudeste,8,247655.16,Elaine Costa
-19-07-2025,Kicks,Nissan Centro,Sul,4,"R$ 142.978,47",Elaine Costa
-2025-02-25,frontier ,Nissan Oeste,Nordeste,6,252671.27,Elaine Costa
-28-01-2025,Leaf,Nissan Centro,Nordeste,7,"R$ 320.500,82",Bruno Lima
-28/06/2025,Versa,Nissan Oeste,Norte,2,126421.14,Elaine Costa
-18-01-2025,March,Nissan Oeste,Nordeste,1,95440.03,Diego Reis
-28-04-2025, Sentra,nissan zona sul,Sul,5,195713.04,Elaine Costa
-24/03/2025,Sentra ,Nissan Centro,Nordeste,8,"R$ 186.523,43",Diego Reis
-06-08-2025,VERSA,Nissan Centro ,Centro-Oeste,4,119535.27,Carla Dias
-23-05-2025,Kicks,Nissan Norte,Sul,2,"R$ 132.485,80",Diego Reis
-02-07-2025,frontier ,nissan zona sul,Sudeste,2,"R$ 256.945,16",Diego Reis
-2025-05-22,March,Nissan Zona Sul,Centro-Oeste,6,89616.18,Diego Reis
-22-03-2025,kicks,Nissan Oeste,Norte,3,131611.54,Diego Reis
-2025-01-26,Sentra ,Nissan Zona Sul,Sul,6,184932.21,Ana Souza
-22/05/2025,Versa,Nissan Oeste,Sul,8,"R$ 115.600,37",Ana Souza
-2025-01-14,Versa,nissan zona sul,Sudeste,2,"R$ 120.251,04",Ana Souza
-2025-05-25,Versa,Nissan Centro,Sul,2,122705.94,Diego Reis
-2025-04-08,frontier ,nissan zona sul,Nordeste,7,257321.85,Elaine Costa
-23/02/2025,Sentra ,Nissan Zona Sul,,3,186424.67,Elaine Costa
-01/05/2025,Versa,Nissan Centro,Sul,5,125028.51,Diego Reis
-2025-06-10,Leaf,Nissan Oeste,Sul,7,"R$ 308.774,69",Bruno Lima
-12/02/2025,Versa,Nissan Norte,Norte,5,120850.79,Diego Reis
-2025-05-07,frontier ,Nissan Centro,,1,277062.49,Carla Dias
-03/08/2025,Leaf,Nissan Norte,Sudeste,5,"R$ 327.971,87",Bruno Lima
-2025-05-30,Frontier,Nissan Oeste,Centro-Oeste,2,"R$ 262.886,35",Diego Reis
-27/06/2025,frontier ,Nissan Zona Sul,Centro-Oeste,1,262373.12,Carla Dias
-31/07/2025,Kicks,Nissan Oeste,Norte,8,135502.49,Bruno Lima
-2025-07-14,Kicks,Nissan Centro ,Nordeste,3,144530.66,Diego Reis
-2025-06-05,Sentra ,Nissan Oeste,Sul,5,"R$ 194.105,72",Elaine Costa
-31-01-2025, Sentra,nissan zona sul,Nordeste,5,"R$ 190.762,61",Diego Reis
-18/02/2025,Leaf,Nissan Norte,Sul,2,315491.89,Diego Reis
-14-03-2025,Versa,Nissan Norte,Norte,8,127498.07,Diego Reis
-07/04/2025,frontier ,Nissan Zona Sul,Sul,4,266326.76,Bruno Lima
-2025-06-30,Frontier,nissan zona sul,Sul,8,279611.07,Bruno Lima
-2025-04-23,kicks,Nissan Norte,Centro-Oeste,1,"R$ 140.928,89",Diego Reis
-09-03-2025,VERSA,Nissan Norte,Centro-Oeste,2,127287.54,Elaine Costa
-05/05/2025,March,Nissan Centro,Norte,2,88246.81,Carla Dias
-14/07/2025,kicks,nissan zona sul,Sul,5,"R$ 144.105,09",Ana Souza
-07-02-2025,Sentra ,Nissan Norte,Centro-Oeste,3,"R$ 184.698,60",Ana Souza
-22/08/2025,Leaf,Nissan Centro ,,8,330536.83,Diego Reis
-23-06-2025,March,Nissan Centro ,Sudeste,8,"R$ 96.559,26",Elaine Costa
-05-08-2025,Versa,Nissan Centro ,Centro-Oeste,8,"R$ 115.663,79",Diego Reis
-2025-08-01,Frontier,Nissan Zona Sul,Sudeste,1,277778.85,Diego Reis
-01-04-2025,Sentra ,Nissan Oeste,Sul,5,"R$ 197.240,78",Bruno Lima
-21/07/2025,frontier ,Nissan Centro,Norte,6,"R$ 271.753,76",Ana Souza
-03/02/2025,March,Nissan Zona Sul,Norte,5,95216.53,Carla Dias
-28/03/2025,kicks,nissan zona sul,Sudeste,3,141485.36,Bruno Lima
-25-07-2025,March,Nissan Zona Sul,Sudeste,7,85662.85,Elaine Costa
-30-05-2025,Frontier,Nissan Oeste,Nordeste,,"R$ 269.809,48",Diego Reis
-2025-06-06,Sentra ,Nissan Oeste,Sudeste,8,202961.87,Carla Dias
-19-03-2025,frontier ,Nissan Centro,Sudeste,4,276989.36,Bruno Lima
-19/05/2025,Frontier,Nissan Norte,Sul,7,"R$ 269.136,36",Diego Reis
-05-04-2025,Sentra ,nissan zona sul,Centro-Oeste,4,"R$ 201.629,62",Ana Souza
-2025-04-12,Versa,Nissan Centro ,Sudeste,8,"R$ 115.430,11",Bruno Lima
-2025-03-27,Sentra ,Nissan Centro ,Norte,4,"R$ 182.194,67",Elaine Costa
-07-02-2025,Leaf,Nissan Centro,Nordeste,3,345081.14,Elaine Costa
-03-02-2025,Kicks,Nissan Zona Sul,Sul,6,"R$ 128.526,96",Carla Dias
-17-01-2025,frontier ,nissan zona sul,,2,262277.78,Bruno Lima
-2025-04-28,Kicks,Nissan Centro,Centro-Oeste,7,135731.1,Ana Souza
-24-03-2025,Leaf,Nissan Centro ,Sudeste,3,315440.67,Elaine Costa
-27-04-2025,March,Nissan Norte,Centro-Oeste,2,94779.22,Ana Souza
-25/02/2025,Frontier,nissan zona sul,Sul,7,"R$ 258.455,89",Diego Reis
-20-06-2025,Versa,Nissan Zona Sul,Sul,8,"R$ 115.047,28",Ana Souza
-03/02/2025,March,Nissan Centro,Norte,6,93339.16,Diego Reis
-04/07/2025,Kicks,Nissan Zona Sul,Norte,5,"R$ 134.421,39",Elaine Costa
-28-01-2025,VERSA,Nissan Norte,Nordeste,2,125896.65,Elaine Costa
-29/07/2025,Leaf,Nissan Norte,Norte,,329334.19,Carla Dias
-31/03/2025,Kicks,Nissan Centro ,Sul,7,"R$ 129.471,22",Ana Souza
-2025-03-29, Sentra,Nissan Zona Sul,Nordeste,6,"R$ 199.687,84",Elaine Costa
-08/06/2025,Kicks,Nissan Oeste,Sudeste,5,"R$ 136.026,63",Diego Reis
-2025-05-12,kicks,Nissan Zona Sul,Centro-Oeste,2,"R$ 133.220,98",Elaine Costa
-2025-06-03,Kicks,Nissan Centro,Sul,5,"R$ 144.840,44",Bruno Lima
-11/07/2025,Frontier,Nissan Centro ,Sul,7,"R$ 265.001,28",Bruno Lima
-09-08-2025,Kicks,nissan zona sul,Sudeste,8,144416.4,Carla Dias
-16/03/2025,kicks,nissan zona sul,Sudeste,6,"R$ 131.266,37",Elaine Costa
-2025-08-05,kicks,Nissan Centro ,Centro-Oeste,7,"R$ 137.445,54",Diego Reis
-13-02-2025,kicks,Nissan Norte,Sudeste,4,144148.94,Carla Dias
-2025-03-02,kicks,Nissan Centro ,Nordeste,4,131294.91,Bruno Lima
-10/06/2025,frontier ,nissan zona sul,Norte,8,270022.31,Elaine Costa
-10/06/2025,VERSA,Nissan Centro ,Centro-Oeste,2,121315.17,Carla Dias
-2025-03-21,frontier ,nissan zona sul,Sudeste,1,259463.33,Carla Dias
-10/05/2025,Frontier,nissan zona sul,Norte,1,262201.0,Elaine Costa
-16/01/2025,frontier ,Nissan Centro,Nordeste,,264053.76,Bruno Lima
-06-06-2025, Sentra,Nissan Zona Sul,Nordeste,5,190069.19,Carla Dias
-17-01-2025,VERSA,Nissan Centro,Norte,7,118432.69,Elaine Costa
-23/08/2025,VERSA,Nissan Zona Sul,Centro-Oeste,3,123282.64,Ana Souza
-21/06/2025,March,Nissan Centro,Centro-Oeste,6,"R$ 85.713,30",Carla Dias
-2025-02-05, Sentra,Nissan Centro,Nordeste,2,193039.94,Elaine Costa
-2025-08-13,Leaf,Nissan Centro ,Norte,7,310416.91,Bruno Lima
-12/01/2025,Frontier,Nissan Zona Sul,Sul,8,267638.13,Diego Reis
-19/02/2025,VERSA,Nissan Oeste,Norte,8,121202.21,Carla Dias
-2025-07-29,Sentra ,Nissan Norte,Sul,5,181788.84,Diego Reis
-2025-05-13,kicks,Nissan Zona Sul,Sudeste,3,133037.49,Elaine Costa
-15/08/2025,VERSA,Nissan Centro,Centro-Oeste,1,"R$ 120.184,68",Carla Dias
-2025-03-23,kicks,Nissan Oeste,Nordeste,3,130664.87,Carla Dias
-01-05-2025,frontier ,Nissan Norte,Sudeste,2,247642.33,Bruno Lima
-19/04/2025,kicks,Nissan Zona Sul,Sul,5,"R$ 130.388,44",Bruno Lima
-03/08/2025,frontier ,Nissan Norte,Norte,1,"R$ 268.360,08",Elaine Costa
-01-04-2025,Sentra ,Nissan Norte,Centro-Oeste,3,196909.97,Ana Souza
-21/07/2025,March,Nissan Norte,Sudeste,7,95717.98,Ana Souza
-02/04/2025,kicks,Nissan Zona Sul,Sul,2,141789.85,Carla Dias
-2025-02-14,frontier ,Nissan Oeste,Centro-Oeste,3,"R$ 274.428,62",Ana Souza
-12-01-2025,Sentra ,Nissan Centro,,5,"R$ 193.229,97",Elaine Costa
-02/04/2025,Kicks,Nissan Oeste,Nordeste,5,130434.54,Carla Dias
-09/04/2025,VERSA,Nissan Centro ,Centro-Oeste,8,"R$ 119.730,61",Elaine Costa
-04-06-2025, Sentra,Nissan Norte,Nordeste,6,183034.17,Carla Dias
-12-02-2025,frontier ,Nissan Zona Sul,Centro-Oeste,1,271566.33,Carla Dias
-15-01-2025,kicks,Nissan Oeste,Centro-Oeste,6,137254.66,Bruno Lima
-2025-04-23,Kicks,Nissan Centro ,Sudeste,4,141912.94,Carla Dias
-23/06/2025,frontier ,Nissan Zona Sul,Nordeste,8,272792.26,Elaine Costa
-05-03-2025,kicks,Nissan Centro,Sul,8,"R$ 137.336,43",Elaine Costa
-06/06/2025,Versa,Nissan Oeste,Centro-Oeste,4,115913.14,Ana Souza
-27-07-2025,VERSA,Nissan Oeste,Nordeste,2,122579.96,Carla Dias
-29/06/2025, Sentra,Nissan Zona Sul,Norte,4,"R$ 183.497,65",Bruno Lima
-22-05-2025,Leaf,Nissan Zona Sul,Centro-Oeste,3,329457.05,Ana Souza
-15-05-2025,Frontier,nissan zona sul,Norte,2,251236.05,Carla Dias
-2025-02-02,March,Nissan Oeste,Norte,3,94483.05,Bruno Lima
-13/05/2025, Sentra,Nissan Zona Sul,Sul,3,188469.72,Bruno Lima
-06-03-2025,Sentra ,Nissan Oeste,Norte,5,"R$ 183.591,71",Carla Dias
-2025-05-29, Sentra,Nissan Centro ,Norte,,"R$ 201.310,49",Elaine Costa
-14/06/2025,Leaf,Nissan Zona Sul,Sul,7,329713.31,Ana Souza
-19/03/2025,frontier ,Nissan Centro ,Centro-Oeste,5,"R$ 262.329,79",Ana Souza
-2025-06-05, Sentra,Nissan Zona Sul,Nordeste,6,"R$ 204.591,74",Bruno Lima
-30-04-2025,kicks,Nissan Zona Sul,Centro-Oeste,4,"R$ 130.722,40",Ana Souza
-10/08/2025, Sentra,Nissan Zona Sul,Norte,6,185188.9,Bruno Lima
-08/05/2025,Kicks,Nissan Centro,,8,"R$ 145.215,35",Bruno Lima
-14/08/2025,frontier ,Nissan Zona Sul,Norte,1,275634.43,Diego Reis
-04-04-2025,Kicks,nissan zona sul,Sudeste,4,"R$ 134.612,29",Carla Dias
-2025-06-09,Leaf,Nissan Centro,Sul,2,"R$ 320.386,39",Carla Dias
-2025-05-11,Frontier,Nissan Norte,Sudeste,1,248315.29,Carla Dias
-12/05/2025, Sentra,Nissan Zona Sul,Norte,6,184513.8,Elaine Costa
-11/05/2025,March,nissan zona sul,Norte,5,91056.24,Ana Souza
-23-07-2025,Kicks,Nissan Norte,Centro-Oeste,5,"R$ 145.222,09",Elaine Costa
-15/05/2025,Leaf,nissan zona sul,Sul,4,"R$ 305.313,33",Ana Souza
-26-06-2025,Sentra ,nissan zona sul,Norte,8,"R$ 202.058,60",Ana Souza
-19/06/2025,frontier ,Nissan Norte,Centro-Oeste,6,279335.97,Diego Reis
-11/08/2025,Versa,Nissan Norte,Centro-Oeste,4,128934.46,Carla Dias
-30/06/2025,Sentra ,Nissan Oeste,Centro-Oeste,6,"R$ 192.351,14",Elaine Costa
-27-05-2025,March,nissan zona sul,Centro-Oeste,6,"R$ 96.668,92",Bruno Lima
-25/08/2025,frontier ,Nissan Oeste,Nordeste,8,"R$ 254.232,75",Elaine Costa
-2025-06-07,Leaf,Nissan Centro ,Sul,1,"R$ 331.865,09",Elaine Costa
-03/07/2025,frontier ,Nissan Centro,Sul,1,"R$ 279.600,73",Bruno Lima
-21-02-2025,Versa,Nissan Zona Sul,Nordeste,1,128163.82,Ana Souza
-28/08/2025,Kicks,Nissan Centro ,Centro-Oeste,3,"R$ 144.640,34",Ana Souza
-11/07/2025,Versa,Nissan Centro,Sudeste,5,122860.21,Ana Souza
-20-05-2025,March,nissan zona sul,Sul,8,"R$ 88.692,19",Ana Souza
-17/02/2025,Kicks,Nissan Oeste,Nordeste,5,138214.56,Bruno Lima
-2025-05-12,VERSA,Nissan Centro,Centro-Oeste,2,"R$ 116.882,59",Bruno Lima
-02-03-2025,frontier ,Nissan Zona Sul,Nordeste,,"R$ 266.687,17",Elaine Costa
-20/06/2025,kicks,nissan zona sul,Nordeste,3,135365.06,Elaine Costa
-13-06-2025,Versa,Nissan Zona Sul,Norte,4,"R$ 117.418,41",Bruno Lima
-29/06/2025,March,nissan zona sul,Norte,4,94413.76,Elaine Costa
-2025-04-03,kicks,Nissan Norte,Sudeste,1,"R$ 142.794,98",Elaine Costa
-2025-05-14,frontier ,Nissan Centro,Sul,8,250073.83,Elaine Costa
-2025-04-27,Leaf,Nissan Centro,Norte,8,331987.14,Carla Dias
-2025-05-29,kicks,Nissan Centro,Centro-Oeste,6,140541.75,Elaine Costa
-01/05/2025,Kicks,Nissan Zona Sul,Centro-Oeste,3,141745.46,Diego Reis
-21/08/2025,Frontier,nissan zona sul,Sudeste,3,269089.45,Carla Dias
-2025-07-06,Sentra ,Nissan Centro,Sudeste,5,"R$ 191.936,20",Elaine Costa
-2025-03-30, Sentra,Nissan Zona Sul,Sul,2,"R$ 181.295,77",Diego Reis
-18/01/2025,kicks,Nissan Norte,,8,"R$ 138.741,12",Ana Souza
-25-02-2025,Kicks,Nissan Centro ,Norte,5,132359.53,Elaine Costa
-02-03-2025,Versa,Nissan Centro ,Norte,4,120451.54,Carla Dias
-10/06/2025,Frontier,Nissan Norte,Centro-Oeste,1,"R$ 279.863,41",Diego Reis
-18/03/2025,Frontier,Nissan Centro ,Norte,8,255144.72,Bruno Lima
-2025-08-13,Leaf,Nissan Centro ,Norte,7,310416.91,Bruno Lima
-19-03-2025,frontier ,Nissan Centro,Sudeste,4,276989.36,Bruno Lima
-19/05/2025,Frontier,Nissan Norte,Sul,7,"R$ 269.136,36",Diego Reis
-2025-02-05, Sentra,Nissan Centro,Nordeste,2,193039.94,Elaine Costa
-2025-03-21,frontier ,nissan zona sul,Sudeste,1,259463.33,Carla Dias
-2025-04-01,March,nissan zona sul,Norte,3,96331.44,Bruno Lima
-21/07/2025,frontier ,Nissan Centro,Norte,6,"R$ 271.753,76",Ana Souza
-24/03/2025,Sentra ,Nissan Centro,Nordeste,8,"R$ 186.523,43",Diego Reis
+id_venda,data,modelo,concessionaria,regiao,unidades,preco_unitario,vendedor
+V0001,2025-06-13,kicks,Nissan Centro,Nordeste,4,132167.35,Ana Souza
+V0002,09-01-2025,Kicks,Nissan Centro,Sul,4,137118.99,Ana Souza
+V0003,2025-02-26,frontier ,Nissan Norte,Nordeste,1,"R$ 272.647,69",Bruno Lima
+V0004,15-07-2025,VERSA,Nissan Centro,Sudeste,7,"R$ 115.508,78",Carla Dias
+V0005,2025-02-01,Frontier,Nissan Centro,Norte,5,275033.88,Elaine Costa
+V0006,12/01/2025,Sentra ,Nissan Zona Sul,Sudeste,4,"R$ 201.902,15",Diego Reis
+V0007,01/04/2025,Sentra ,Nissan Oeste,Nordeste,2,"R$ 195.545,54",Bruno Lima
+V0008,2025-08-25,March,Nissan Centro ,Nordeste,1,"R$ 88.179,86",Ana Souza
+V0009,26-05-2025,VERSA,Nissan Centro ,Centro-Oeste,7,127801.06,Diego Reis
+V0010,2025-03-09,Leaf,nissan zona sul,Norte,7,319059.05,Bruno Lima
+V0011,09-02-2025, Sentra,Nissan Oeste,Centro-Oeste,2,190003.75,Elaine Costa
+V0012,03/01/2025,kicks,Nissan Oeste,Norte,5,"R$ 141.738,91",Carla Dias
+V0013,2025-07-04,Versa,Nissan Norte,Sul,2,"R$ 127.580,09",Carla Dias
+V0014,15/07/2025, Sentra,Nissan Norte,Norte,,"R$ 195.293,93",Diego Reis
+V0015,03/03/2025,Leaf,Nissan Centro,Sudeste,8,337946.57,Elaine Costa
+V0016,12-02-2025,Versa,Nissan Norte,Norte,7,"R$ 129.044,06",Elaine Costa
+V0017,21-06-2025,VERSA,nissan zona sul,,8,"R$ 115.887,67",Bruno Lima
+V0018,2025-02-26,Kicks,Nissan Centro,Sudeste,4,"R$ 129.432,88",Ana Souza
+V0019,2025-05-05,Sentra ,Nissan Norte,Sul,8,186502.03,Diego Reis
+V0020,2025-04-01,Frontier,nissan zona sul,Centro-Oeste,1,"R$ 269.759,72",Ana Souza
+V0021,18/02/2025,March,nissan zona sul,Sul,7,87646.81,Diego Reis
+V0022,2025-08-08,March,Nissan Centro,Sudeste,1,96837.26,Bruno Lima
+V0023,20/08/2025,Kicks,Nissan Centro ,Centro-Oeste,1,"R$ 145.542,17",Carla Dias
+V0024,07-07-2025,March,Nissan Oeste,Centro-Oeste,3,"R$ 87.721,81",Bruno Lima
+V0025,2025-03-22,Kicks,Nissan Centro,Norte,8,137075.02,Elaine Costa
+V0026,18-01-2025,Leaf,Nissan Centro,Sul,7,"R$ 308.987,28",Elaine Costa
+V0027,18/06/2025,Leaf,Nissan Norte,Norte,6,"R$ 342.883,78",Bruno Lima
+V0028,2025-06-21,Versa,nissan zona sul,Nordeste,2,114145.32,Elaine Costa
+V0029,10-05-2025,Versa,Nissan Centro ,Nordeste,2,127716.62,Carla Dias
+V0030,2025-06-06,March,Nissan Centro,Norte,5,96401.55,Ana Souza
+V0031,10/07/2025,March,Nissan Centro ,Nordeste,5,92576.51,Carla Dias
+V0032,06/03/2025,Kicks,Nissan Centro,Centro-Oeste,5,"R$ 129.023,72",Carla Dias
+V0033,24-04-2025,March,Nissan Oeste,Centro-Oeste,1,86808.92,Bruno Lima
+V0034,2025-04-21, Sentra,Nissan Centro,Nordeste,6,202704.84,Ana Souza
+V0035,2025-04-01,March,nissan zona sul,Norte,3,96331.44,Bruno Lima
+V0036,2025-01-07, Sentra,Nissan Oeste,Nordeste,7,"R$ 200.315,21",Bruno Lima
+V0037,10/01/2025,frontier ,Nissan Centro ,Sul,8,"R$ 258.818,45",Bruno Lima
+V0038,10/08/2025,kicks,Nissan Zona Sul,,7,"R$ 140.175,54",Elaine Costa
+V0039,2025-03-09,Kicks,Nissan Centro,Norte,7,"R$ 134.316,81",Carla Dias
+V0040,28-05-2025,Sentra ,Nissan Zona Sul,Sudeste,7,180541.77,Elaine Costa
+V0041,04/04/2025,Frontier,Nissan Centro,Nordeste,6,269422.5,Ana Souza
+V0042,25-03-2025,Frontier,Nissan Oeste,Nordeste,3,253484.2,Diego Reis
+V0043,14/04/2025,March,Nissan Centro,Nordeste,5,"R$ 87.959,14",Elaine Costa
+V0044,2025-02-24,March,nissan zona sul,Sul,2,88820.3,Elaine Costa
+V0045,27/02/2025,Sentra ,Nissan Centro ,Sudeste,1,"R$ 186.547,61",Diego Reis
+V0046,2025-06-11,Leaf,Nissan Centro ,,8,320625.56,Bruno Lima
+V0047,2025-02-26, Sentra,Nissan Oeste,Norte,8,181740.39,Bruno Lima
+V0048,20-06-2025,March,Nissan Norte,Norte,6,"R$ 96.615,46",Diego Reis
+V0049,21-08-2025,March,nissan zona sul,Sul,8,"R$ 90.765,82",Bruno Lima
+V0050,2025-03-03,Versa,nissan zona sul,Sudeste,5,"R$ 117.658,10",Carla Dias
+V0051,2025-04-09, Sentra,Nissan Oeste,Sul,2,190747.24,Carla Dias
+V0052,10/04/2025,Leaf,Nissan Oeste,Sudeste,7,323842.36,Carla Dias
+V0053,08-07-2025,March,Nissan Norte,Sul,8,88067.23,Diego Reis
+V0054,14-04-2025, Sentra,nissan zona sul,,1,"R$ 202.901,14",Elaine Costa
+V0055,10/08/2025,frontier ,Nissan Centro ,Sudeste,5,"R$ 259.813,71",Bruno Lima
+V0056,2025-08-01,Frontier,Nissan Zona Sul,Sudeste,8,247655.16,Elaine Costa
+V0057,19-07-2025,Kicks,Nissan Centro,Sul,4,"R$ 142.978,47",Elaine Costa
+V0058,2025-02-25,frontier ,Nissan Oeste,Nordeste,6,252671.27,Elaine Costa
+V0059,28-01-2025,Leaf,Nissan Centro,Nordeste,7,"R$ 320.500,82",Bruno Lima
+V0060,28/06/2025,Versa,Nissan Oeste,Norte,2,126421.14,Elaine Costa
+V0061,18-01-2025,March,Nissan Oeste,Nordeste,1,95440.03,Diego Reis
+V0062,28-04-2025, Sentra,nissan zona sul,Sul,5,195713.04,Elaine Costa
+V0063,24/03/2025,Sentra ,Nissan Centro,Nordeste,8,"R$ 186.523,43",Diego Reis
+V0064,06-08-2025,VERSA,Nissan Centro ,Centro-Oeste,4,119535.27,Carla Dias
+V0065,23-05-2025,Kicks,Nissan Norte,Sul,2,"R$ 132.485,80",Diego Reis
+V0066,02-07-2025,frontier ,nissan zona sul,Sudeste,2,"R$ 256.945,16",Diego Reis
+V0067,2025-05-22,March,Nissan Zona Sul,Centro-Oeste,6,89616.18,Diego Reis
+V0068,22-03-2025,kicks,Nissan Oeste,Norte,3,131611.54,Diego Reis
+V0069,2025-01-26,Sentra ,Nissan Zona Sul,Sul,6,184932.21,Ana Souza
+V0070,22/05/2025,Versa,Nissan Oeste,Sul,8,"R$ 115.600,37",Ana Souza
+V0071,2025-01-14,Versa,nissan zona sul,Sudeste,2,"R$ 120.251,04",Ana Souza
+V0072,2025-05-25,Versa,Nissan Centro,Sul,2,122705.94,Diego Reis
+V0073,2025-04-08,frontier ,nissan zona sul,Nordeste,7,257321.85,Elaine Costa
+V0074,23/02/2025,Sentra ,Nissan Zona Sul,,3,186424.67,Elaine Costa
+V0075,01/05/2025,Versa,Nissan Centro,Sul,5,125028.51,Diego Reis
+V0076,2025-06-10,Leaf,Nissan Oeste,Sul,7,"R$ 308.774,69",Bruno Lima
+V0077,12/02/2025,Versa,Nissan Norte,Norte,5,120850.79,Diego Reis
+V0078,2025-05-07,frontier ,Nissan Centro,,1,277062.49,Carla Dias
+V0079,03/08/2025,Leaf,Nissan Norte,Sudeste,5,"R$ 327.971,87",Bruno Lima
+V0080,2025-05-30,Frontier,Nissan Oeste,Centro-Oeste,2,"R$ 262.886,35",Diego Reis
+V0081,27/06/2025,frontier ,Nissan Zona Sul,Centro-Oeste,1,262373.12,Carla Dias
+V0082,31/07/2025,Kicks,Nissan Oeste,Norte,8,135502.49,Bruno Lima
+V0083,2025-07-14,Kicks,Nissan Centro ,Nordeste,3,144530.66,Diego Reis
+V0084,2025-06-05,Sentra ,Nissan Oeste,Sul,5,"R$ 194.105,72",Elaine Costa
+V0085,31-01-2025, Sentra,nissan zona sul,Nordeste,5,"R$ 190.762,61",Diego Reis
+V0086,18/02/2025,Leaf,Nissan Norte,Sul,2,315491.89,Diego Reis
+V0087,14-03-2025,Versa,Nissan Norte,Norte,8,127498.07,Diego Reis
+V0088,07/04/2025,frontier ,Nissan Zona Sul,Sul,4,266326.76,Bruno Lima
+V0089,2025-06-30,Frontier,nissan zona sul,Sul,8,279611.07,Bruno Lima
+V0090,2025-04-23,kicks,Nissan Norte,Centro-Oeste,1,"R$ 140.928,89",Diego Reis
+V0091,09-03-2025,VERSA,Nissan Norte,Centro-Oeste,2,127287.54,Elaine Costa
+V0092,05/05/2025,March,Nissan Centro,Norte,2,88246.81,Carla Dias
+V0093,14/07/2025,kicks,nissan zona sul,Sul,5,"R$ 144.105,09",Ana Souza
+V0094,07-02-2025,Sentra ,Nissan Norte,Centro-Oeste,3,"R$ 184.698,60",Ana Souza
+V0095,22/08/2025,Leaf,Nissan Centro ,,8,330536.83,Diego Reis
+V0096,23-06-2025,March,Nissan Centro ,Sudeste,8,"R$ 96.559,26",Elaine Costa
+V0097,05-08-2025,Versa,Nissan Centro ,Centro-Oeste,8,"R$ 115.663,79",Diego Reis
+V0098,2025-08-01,Frontier,Nissan Zona Sul,Sudeste,1,277778.85,Diego Reis
+V0099,01-04-2025,Sentra ,Nissan Oeste,Sul,5,"R$ 197.240,78",Bruno Lima
+V0100,21/07/2025,frontier ,Nissan Centro,Norte,6,"R$ 271.753,76",Ana Souza
+V0101,03/02/2025,March,Nissan Zona Sul,Norte,5,95216.53,Carla Dias
+V0102,28/03/2025,kicks,nissan zona sul,Sudeste,3,141485.36,Bruno Lima
+V0103,25-07-2025,March,Nissan Zona Sul,Sudeste,7,85662.85,Elaine Costa
+V0104,30-05-2025,Frontier,Nissan Oeste,Nordeste,,"R$ 269.809,48",Diego Reis
+V0105,2025-06-06,Sentra ,Nissan Oeste,Sudeste,8,202961.87,Carla Dias
+V0106,19-03-2025,frontier ,Nissan Centro,Sudeste,4,276989.36,Bruno Lima
+V0107,19/05/2025,Frontier,Nissan Norte,Sul,7,"R$ 269.136,36",Diego Reis
+V0108,05-04-2025,Sentra ,nissan zona sul,Centro-Oeste,4,"R$ 201.629,62",Ana Souza
+V0109,2025-04-12,Versa,Nissan Centro ,Sudeste,8,"R$ 115.430,11",Bruno Lima
+V0110,2025-03-27,Sentra ,Nissan Centro ,Norte,4,"R$ 182.194,67",Elaine Costa
+V0111,07-02-2025,Leaf,Nissan Centro,Nordeste,3,345081.14,Elaine Costa
+V0112,03-02-2025,Kicks,Nissan Zona Sul,Sul,6,"R$ 128.526,96",Carla Dias
+V0113,17-01-2025,frontier ,nissan zona sul,,2,262277.78,Bruno Lima
+V0114,2025-04-28,Kicks,Nissan Centro,Centro-Oeste,7,135731.1,Ana Souza
+V0115,24-03-2025,Leaf,Nissan Centro ,Sudeste,3,315440.67,Elaine Costa
+V0116,27-04-2025,March,Nissan Norte,Centro-Oeste,2,94779.22,Ana Souza
+V0117,25/02/2025,Frontier,nissan zona sul,Sul,7,"R$ 258.455,89",Diego Reis
+V0118,20-06-2025,Versa,Nissan Zona Sul,Sul,8,"R$ 115.047,28",Ana Souza
+V0119,03/02/2025,March,Nissan Centro,Norte,6,93339.16,Diego Reis
+V0120,04/07/2025,Kicks,Nissan Zona Sul,Norte,5,"R$ 134.421,39",Elaine Costa
+V0121,28-01-2025,VERSA,Nissan Norte,Nordeste,2,125896.65,Elaine Costa
+V0122,29/07/2025,Leaf,Nissan Norte,Norte,,329334.19,Carla Dias
+V0123,31/03/2025,Kicks,Nissan Centro ,Sul,7,"R$ 129.471,22",Ana Souza
+V0124,2025-03-29, Sentra,Nissan Zona Sul,Nordeste,6,"R$ 199.687,84",Elaine Costa
+V0125,08/06/2025,Kicks,Nissan Oeste,Sudeste,5,"R$ 136.026,63",Diego Reis
+V0126,2025-05-12,kicks,Nissan Zona Sul,Centro-Oeste,2,"R$ 133.220,98",Elaine Costa
+V0127,2025-06-03,Kicks,Nissan Centro,Sul,5,"R$ 144.840,44",Bruno Lima
+V0128,11/07/2025,Frontier,Nissan Centro ,Sul,7,"R$ 265.001,28",Bruno Lima
+V0129,09-08-2025,Kicks,nissan zona sul,Sudeste,8,144416.4,Carla Dias
+V0130,16/03/2025,kicks,nissan zona sul,Sudeste,6,"R$ 131.266,37",Elaine Costa
+V0131,2025-08-05,kicks,Nissan Centro ,Centro-Oeste,7,"R$ 137.445,54",Diego Reis
+V0132,13-02-2025,kicks,Nissan Norte,Sudeste,4,144148.94,Carla Dias
+V0133,2025-03-02,kicks,Nissan Centro ,Nordeste,4,131294.91,Bruno Lima
+V0134,10/06/2025,frontier ,nissan zona sul,Norte,8,270022.31,Elaine Costa
+V0135,10/06/2025,VERSA,Nissan Centro ,Centro-Oeste,2,121315.17,Carla Dias
+V0136,2025-03-21,frontier ,nissan zona sul,Sudeste,1,259463.33,Carla Dias
+V0137,10/05/2025,Frontier,nissan zona sul,Norte,1,262201.0,Elaine Costa
+V0138,16/01/2025,frontier ,Nissan Centro,Nordeste,,264053.76,Bruno Lima
+V0139,06-06-2025, Sentra,Nissan Zona Sul,Nordeste,5,190069.19,Carla Dias
+V0140,17-01-2025,VERSA,Nissan Centro,Norte,7,118432.69,Elaine Costa
+V0141,23/08/2025,VERSA,Nissan Zona Sul,Centro-Oeste,3,123282.64,Ana Souza
+V0142,21/06/2025,March,Nissan Centro,Centro-Oeste,6,"R$ 85.713,30",Carla Dias
+V0143,2025-02-05, Sentra,Nissan Centro,Nordeste,2,193039.94,Elaine Costa
+V0144,2025-08-13,Leaf,Nissan Centro ,Norte,7,310416.91,Bruno Lima
+V0145,12/01/2025,Frontier,Nissan Zona Sul,Sul,8,267638.13,Diego Reis
+V0146,19/02/2025,VERSA,Nissan Oeste,Norte,8,121202.21,Carla Dias
+V0147,2025-07-29,Sentra ,Nissan Norte,Sul,5,181788.84,Diego Reis
+V0148,2025-05-13,kicks,Nissan Zona Sul,Sudeste,3,133037.49,Elaine Costa
+V0149,15/08/2025,VERSA,Nissan Centro,Centro-Oeste,1,"R$ 120.184,68",Carla Dias
+V0150,2025-03-23,kicks,Nissan Oeste,Nordeste,3,130664.87,Carla Dias
+V0151,01-05-2025,frontier ,Nissan Norte,Sudeste,2,247642.33,Bruno Lima
+V0152,19/04/2025,kicks,Nissan Zona Sul,Sul,5,"R$ 130.388,44",Bruno Lima
+V0153,03/08/2025,frontier ,Nissan Norte,Norte,1,"R$ 268.360,08",Elaine Costa
+V0154,01-04-2025,Sentra ,Nissan Norte,Centro-Oeste,3,196909.97,Ana Souza
+V0155,21/07/2025,March,Nissan Norte,Sudeste,7,95717.98,Ana Souza
+V0156,02/04/2025,kicks,Nissan Zona Sul,Sul,2,141789.85,Carla Dias
+V0157,2025-02-14,frontier ,Nissan Oeste,Centro-Oeste,3,"R$ 274.428,62",Ana Souza
+V0158,12-01-2025,Sentra ,Nissan Centro,,5,"R$ 193.229,97",Elaine Costa
+V0159,02/04/2025,Kicks,Nissan Oeste,Nordeste,5,130434.54,Carla Dias
+V0160,09/04/2025,VERSA,Nissan Centro ,Centro-Oeste,8,"R$ 119.730,61",Elaine Costa
+V0161,04-06-2025, Sentra,Nissan Norte,Nordeste,6,183034.17,Carla Dias
+V0162,12-02-2025,frontier ,Nissan Zona Sul,Centro-Oeste,1,271566.33,Carla Dias
+V0163,15-01-2025,kicks,Nissan Oeste,Centro-Oeste,6,137254.66,Bruno Lima
+V0164,2025-04-23,Kicks,Nissan Centro ,Sudeste,4,141912.94,Carla Dias
+V0165,23/06/2025,frontier ,Nissan Zona Sul,Nordeste,8,272792.26,Elaine Costa
+V0166,05-03-2025,kicks,Nissan Centro,Sul,8,"R$ 137.336,43",Elaine Costa
+V0167,06/06/2025,Versa,Nissan Oeste,Centro-Oeste,4,115913.14,Ana Souza
+V0168,27-07-2025,VERSA,Nissan Oeste,Nordeste,2,122579.96,Carla Dias
+V0169,29/06/2025, Sentra,Nissan Zona Sul,Norte,4,"R$ 183.497,65",Bruno Lima
+V0170,22-05-2025,Leaf,Nissan Zona Sul,Centro-Oeste,3,329457.05,Ana Souza
+V0171,15-05-2025,Frontier,nissan zona sul,Norte,2,251236.05,Carla Dias
+V0172,2025-02-02,March,Nissan Oeste,Norte,3,94483.05,Bruno Lima
+V0173,13/05/2025, Sentra,Nissan Zona Sul,Sul,3,188469.72,Bruno Lima
+V0174,06-03-2025,Sentra ,Nissan Oeste,Norte,5,"R$ 183.591,71",Carla Dias
+V0175,2025-05-29, Sentra,Nissan Centro ,Norte,,"R$ 201.310,49",Elaine Costa
+V0176,14/06/2025,Leaf,Nissan Zona Sul,Sul,7,329713.31,Ana Souza
+V0177,19/03/2025,frontier ,Nissan Centro ,Centro-Oeste,5,"R$ 262.329,79",Ana Souza
+V0178,2025-06-05, Sentra,Nissan Zona Sul,Nordeste,6,"R$ 204.591,74",Bruno Lima
+V0179,30-04-2025,kicks,Nissan Zona Sul,Centro-Oeste,4,"R$ 130.722,40",Ana Souza
+V0180,10/08/2025, Sentra,Nissan Zona Sul,Norte,6,185188.9,Bruno Lima
+V0181,08/05/2025,Kicks,Nissan Centro,,8,"R$ 145.215,35",Bruno Lima
+V0182,14/08/2025,frontier ,Nissan Zona Sul,Norte,1,275634.43,Diego Reis
+V0183,04-04-2025,Kicks,nissan zona sul,Sudeste,4,"R$ 134.612,29",Carla Dias
+V0184,2025-06-09,Leaf,Nissan Centro,Sul,2,"R$ 320.386,39",Carla Dias
+V0185,2025-05-11,Frontier,Nissan Norte,Sudeste,1,248315.29,Carla Dias
+V0186,12/05/2025, Sentra,Nissan Zona Sul,Norte,6,184513.8,Elaine Costa
+V0187,11/05/2025,March,nissan zona sul,Norte,5,91056.24,Ana Souza
+V0188,23-07-2025,Kicks,Nissan Norte,Centro-Oeste,5,"R$ 145.222,09",Elaine Costa
+V0189,15/05/2025,Leaf,nissan zona sul,Sul,4,"R$ 305.313,33",Ana Souza
+V0190,26-06-2025,Sentra ,nissan zona sul,Norte,8,"R$ 202.058,60",Ana Souza
+V0191,19/06/2025,frontier ,Nissan Norte,Centro-Oeste,6,279335.97,Diego Reis
+V0192,11/08/2025,Versa,Nissan Norte,Centro-Oeste,4,128934.46,Carla Dias
+V0193,30/06/2025,Sentra ,Nissan Oeste,Centro-Oeste,6,"R$ 192.351,14",Elaine Costa
+V0194,27-05-2025,March,nissan zona sul,Centro-Oeste,6,"R$ 96.668,92",Bruno Lima
+V0195,25/08/2025,frontier ,Nissan Oeste,Nordeste,8,"R$ 254.232,75",Elaine Costa
+V0196,2025-06-07,Leaf,Nissan Centro ,Sul,1,"R$ 331.865,09",Elaine Costa
+V0197,03/07/2025,frontier ,Nissan Centro,Sul,1,"R$ 279.600,73",Bruno Lima
+V0198,21-02-2025,Versa,Nissan Zona Sul,Nordeste,1,128163.82,Ana Souza
+V0199,28/08/2025,Kicks,Nissan Centro ,Centro-Oeste,3,"R$ 144.640,34",Ana Souza
+V0200,11/07/2025,Versa,Nissan Centro,Sudeste,5,122860.21,Ana Souza
+V0201,20-05-2025,March,nissan zona sul,Sul,8,"R$ 88.692,19",Ana Souza
+V0202,17/02/2025,Kicks,Nissan Oeste,Nordeste,5,138214.56,Bruno Lima
+V0203,2025-05-12,VERSA,Nissan Centro,Centro-Oeste,2,"R$ 116.882,59",Bruno Lima
+V0204,02-03-2025,frontier ,Nissan Zona Sul,Nordeste,,"R$ 266.687,17",Elaine Costa
+V0205,20/06/2025,kicks,nissan zona sul,Nordeste,3,135365.06,Elaine Costa
+V0206,13-06-2025,Versa,Nissan Zona Sul,Norte,4,"R$ 117.418,41",Bruno Lima
+V0207,29/06/2025,March,nissan zona sul,Norte,4,94413.76,Elaine Costa
+V0208,2025-04-03,kicks,Nissan Norte,Sudeste,1,"R$ 142.794,98",Elaine Costa
+V0209,2025-05-14,frontier ,Nissan Centro,Sul,8,250073.83,Elaine Costa
+V0210,2025-04-27,Leaf,Nissan Centro,Norte,8,331987.14,Carla Dias
+V0211,2025-05-29,kicks,Nissan Centro,Centro-Oeste,6,140541.75,Elaine Costa
+V0212,01/05/2025,Kicks,Nissan Zona Sul,Centro-Oeste,3,141745.46,Diego Reis
+V0213,21/08/2025,Frontier,nissan zona sul,Sudeste,3,269089.45,Carla Dias
+V0214,2025-07-06,Sentra ,Nissan Centro,Sudeste,5,"R$ 191.936,20",Elaine Costa
+V0215,2025-03-30, Sentra,Nissan Zona Sul,Sul,2,"R$ 181.295,77",Diego Reis
+V0216,18/01/2025,kicks,Nissan Norte,,8,"R$ 138.741,12",Ana Souza
+V0217,25-02-2025,Kicks,Nissan Centro ,Norte,5,132359.53,Elaine Costa
+V0218,02-03-2025,Versa,Nissan Centro ,Norte,4,120451.54,Carla Dias
+V0219,10/06/2025,Frontier,Nissan Norte,Centro-Oeste,1,"R$ 279.863,41",Diego Reis
+V0220,18/03/2025,Frontier,Nissan Centro ,Norte,8,255144.72,Bruno Lima
+V0144,2025-08-13,Leaf,Nissan Centro ,Norte,7,310416.91,Bruno Lima
+V0106,19-03-2025,frontier ,Nissan Centro,Sudeste,4,276989.36,Bruno Lima
+V0107,19/05/2025,Frontier,Nissan Norte,Sul,7,"R$ 269.136,36",Diego Reis
+V0143,2025-02-05, Sentra,Nissan Centro,Nordeste,2,193039.94,Elaine Costa
+V0136,2025-03-21,frontier ,nissan zona sul,Sudeste,1,259463.33,Carla Dias
+V0035,2025-04-01,March,nissan zona sul,Norte,3,96331.44,Bruno Lima
+V0100,21/07/2025,frontier ,Nissan Centro,Norte,6,"R$ 271.753,76",Ana Souza
+V0063,24/03/2025,Sentra ,Nissan Centro,Nordeste,8,"R$ 186.523,43",Diego Reis

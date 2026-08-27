@@ -21,7 +21,7 @@ Este projeto foi construído utilizando uma arquitetura de microsserviços para 
 | `gerar_dados.py` | Script para criação da base de dados fictícia de vendas. |
 | `processar_vendas.py` | Script de limpeza e estruturação (ETL) dos dados brutos. |
 | `requirements.txt` | Lista de dependências e bibliotecas do ambiente Python. |
-| *(Em breve)* `/api-java` | Microsserviço de backend e integração com IA. |
+| `/api-java` | Microsserviço de backend e integração com IA. |
 
 ---
 *Projeto desenvolvido para demonstração de automação, engenharia de dados e IA.*
