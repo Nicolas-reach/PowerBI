@@ -1,215 +1,215 @@
-﻿data,ano,mes,modelo,concessionaria,regiao,vendedor,unidades,preco_unitario,receita
-2025-06-13,2025,6,Kicks,Nissan Centro,Nordeste,Ana Souza,4.0,132167.35,528669.4
-2025-01-09,2025,1,Kicks,Nissan Centro,Sul,Ana Souza,4.0,137118.99,548475.96
-2025-02-26,2025,2,Frontier,Nissan Norte,Nordeste,Bruno Lima,1.0,272647.69,272647.69
-2025-07-15,2025,7,Versa,Nissan Centro,Sudeste,Carla Dias,7.0,115508.78,808561.46
-2025-01-02,2025,1,Frontier,Nissan Centro,Norte,Elaine Costa,5.0,275033.88,1375169.4
-2025-01-12,2025,1,Sentra,Nissan Zona Sul,Sudeste,Diego Reis,4.0,201902.15,807608.6
-2025-04-01,2025,4,Sentra,Nissan Oeste,Nordeste,Bruno Lima,2.0,195545.54,391091.08
-2025-08-25,2025,8,March,Nissan Centro,Nordeste,Ana Souza,1.0,88179.86,88179.86
-2025-05-26,2025,5,Versa,Nissan Centro,Centro-Oeste,Diego Reis,7.0,127801.06,894607.4199999999
-2025-09-03,2025,9,Leaf,Nissan Zona Sul,Norte,Bruno Lima,7.0,319059.05,2233413.35
-2025-02-09,2025,2,Sentra,Nissan Oeste,Centro-Oeste,Elaine Costa,2.0,190003.75,380007.5
-2025-01-03,2025,1,Kicks,Nissan Oeste,Norte,Carla Dias,5.0,141738.91,708694.55
-2025-04-07,2025,4,Versa,Nissan Norte,Sul,Carla Dias,2.0,127580.09,255160.18
-2025-03-03,2025,3,Leaf,Nissan Centro,Sudeste,Elaine Costa,8.0,337946.57,2703572.56
-2025-02-12,2025,2,Versa,Nissan Norte,Norte,Elaine Costa,7.0,129044.06,903308.4199999999
-2025-06-21,2025,6,Versa,Nissan Zona Sul,,Bruno Lima,8.0,115887.67,927101.36
-2025-02-26,2025,2,Kicks,Nissan Centro,Sudeste,Ana Souza,4.0,129432.88,517731.52
-2025-05-05,2025,5,Sentra,Nissan Norte,Sul,Diego Reis,8.0,186502.03,1492016.24
-2025-01-04,2025,1,Frontier,Nissan Zona Sul,Centro-Oeste,Ana Souza,1.0,269759.72,269759.72
-2025-02-18,2025,2,March,Nissan Zona Sul,Sul,Diego Reis,7.0,87646.81,613527.6699999999
-2025-08-08,2025,8,March,Nissan Centro,Sudeste,Bruno Lima,1.0,96837.26,96837.26
-2025-08-20,2025,8,Kicks,Nissan Centro,Centro-Oeste,Carla Dias,1.0,145542.17,145542.17
-2025-07-07,2025,7,March,Nissan Oeste,Centro-Oeste,Bruno Lima,3.0,87721.81,263165.43
-2025-03-22,2025,3,Kicks,Nissan Centro,Norte,Elaine Costa,8.0,137075.02,1096600.16
-2025-01-18,2025,1,Leaf,Nissan Centro,Sul,Elaine Costa,7.0,308987.28,2162910.96
-2025-06-18,2025,6,Leaf,Nissan Norte,Norte,Bruno Lima,6.0,342883.78,2057302.6800000002
-2025-06-21,2025,6,Versa,Nissan Zona Sul,Nordeste,Elaine Costa,2.0,114145.32,228290.64
-2025-05-10,2025,5,Versa,Nissan Centro,Nordeste,Carla Dias,2.0,127716.62,255433.24
-2025-06-06,2025,6,March,Nissan Centro,Norte,Ana Souza,5.0,96401.55,482007.75
-2025-07-10,2025,7,March,Nissan Centro,Nordeste,Carla Dias,5.0,92576.51,462882.55
-2025-03-06,2025,3,Kicks,Nissan Centro,Centro-Oeste,Carla Dias,5.0,129023.72,645118.6
-2025-04-24,2025,4,March,Nissan Oeste,Centro-Oeste,Bruno Lima,1.0,86808.92,86808.92
-2025-04-21,2025,4,Sentra,Nissan Centro,Nordeste,Ana Souza,6.0,202704.84,1216229.04
-2025-01-04,2025,1,March,Nissan Zona Sul,Norte,Bruno Lima,3.0,96331.44,288994.32
-2025-07-01,2025,7,Sentra,Nissan Oeste,Nordeste,Bruno Lima,7.0,200315.21,1402206.47
-2025-01-10,2025,1,Frontier,Nissan Centro,Sul,Bruno Lima,8.0,258818.45,2070547.6
-2025-08-10,2025,8,Kicks,Nissan Zona Sul,,Elaine Costa,7.0,140175.54,981228.78
-2025-09-03,2025,9,Kicks,Nissan Centro,Norte,Carla Dias,7.0,134316.81,940217.6699999999
-2025-05-28,2025,5,Sentra,Nissan Zona Sul,Sudeste,Elaine Costa,7.0,180541.77,1263792.39
-2025-04-04,2025,4,Frontier,Nissan Centro,Nordeste,Ana Souza,6.0,269422.5,1616535.0
-2025-03-25,2025,3,Frontier,Nissan Oeste,Nordeste,Diego Reis,3.0,253484.2,760452.6000000001
-2025-04-14,2025,4,March,Nissan Centro,Nordeste,Elaine Costa,5.0,87959.14,439795.7
-2025-02-24,2025,2,March,Nissan Zona Sul,Sul,Elaine Costa,2.0,88820.3,177640.6
-2025-02-27,2025,2,Sentra,Nissan Centro,Sudeste,Diego Reis,1.0,186547.61,186547.61
-2025-11-06,2025,11,Leaf,Nissan Centro,,Bruno Lima,8.0,320625.56,2565004.48
-2025-02-26,2025,2,Sentra,Nissan Oeste,Norte,Bruno Lima,8.0,181740.39,1453923.12
-2025-06-20,2025,6,March,Nissan Norte,Norte,Diego Reis,6.0,96615.46,579692.76
-2025-08-21,2025,8,March,Nissan Zona Sul,Sul,Bruno Lima,8.0,90765.82,726126.56
-2025-03-03,2025,3,Versa,Nissan Zona Sul,Sudeste,Carla Dias,5.0,117658.1,588290.5
-2025-09-04,2025,9,Sentra,Nissan Oeste,Sul,Carla Dias,2.0,190747.24,381494.48
-2025-04-10,2025,4,Leaf,Nissan Oeste,Sudeste,Carla Dias,7.0,323842.36,2266896.52
-2025-07-08,2025,7,March,Nissan Norte,Sul,Diego Reis,8.0,88067.23,704537.84
-2025-04-14,2025,4,Sentra,Nissan Zona Sul,,Elaine Costa,1.0,202901.14,202901.14
-2025-08-10,2025,8,Frontier,Nissan Centro,Sudeste,Bruno Lima,5.0,259813.71,1299068.55
-2025-01-08,2025,1,Frontier,Nissan Zona Sul,Sudeste,Elaine Costa,8.0,247655.16,1981241.28
-2025-07-19,2025,7,Kicks,Nissan Centro,Sul,Elaine Costa,4.0,142978.47,571913.88
-2025-02-25,2025,2,Frontier,Nissan Oeste,Nordeste,Elaine Costa,6.0,252671.27,1516027.6199999999
-2025-01-28,2025,1,Leaf,Nissan Centro,Nordeste,Bruno Lima,7.0,320500.82,2243505.74
-2025-06-28,2025,6,Versa,Nissan Oeste,Norte,Elaine Costa,2.0,126421.14,252842.28
-2025-01-18,2025,1,March,Nissan Oeste,Nordeste,Diego Reis,1.0,95440.03,95440.03
-2025-04-28,2025,4,Sentra,Nissan Zona Sul,Sul,Elaine Costa,5.0,195713.04,978565.2000000001
-2025-03-24,2025,3,Sentra,Nissan Centro,Nordeste,Diego Reis,8.0,186523.43,1492187.44
-2025-08-06,2025,8,Versa,Nissan Centro,Centro-Oeste,Carla Dias,4.0,119535.27,478141.08
-2025-05-23,2025,5,Kicks,Nissan Norte,Sul,Diego Reis,2.0,132485.8,264971.6
-2025-07-02,2025,7,Frontier,Nissan Zona Sul,Sudeste,Diego Reis,2.0,256945.16,513890.32
-2025-05-22,2025,5,March,Nissan Zona Sul,Centro-Oeste,Diego Reis,6.0,89616.18,537697.08
-2025-03-22,2025,3,Kicks,Nissan Oeste,Norte,Diego Reis,3.0,131611.54,394834.62
-2025-01-26,2025,1,Sentra,Nissan Zona Sul,Sul,Ana Souza,6.0,184932.21,1109593.26
-2025-05-22,2025,5,Versa,Nissan Oeste,Sul,Ana Souza,8.0,115600.37,924802.96
-2025-01-14,2025,1,Versa,Nissan Zona Sul,Sudeste,Ana Souza,2.0,120251.04,240502.08
-2025-05-25,2025,5,Versa,Nissan Centro,Sul,Diego Reis,2.0,122705.94,245411.88
-2025-08-04,2025,8,Frontier,Nissan Zona Sul,Nordeste,Elaine Costa,7.0,257321.85,1801252.95
-2025-02-23,2025,2,Sentra,Nissan Zona Sul,,Elaine Costa,3.0,186424.67,559274.01
-2025-05-01,2025,5,Versa,Nissan Centro,Sul,Diego Reis,5.0,125028.51,625142.5499999999
-2025-10-06,2025,10,Leaf,Nissan Oeste,Sul,Bruno Lima,7.0,308774.69,2161422.83
-2025-02-12,2025,2,Versa,Nissan Norte,Norte,Diego Reis,5.0,120850.79,604253.95
-2025-07-05,2025,7,Frontier,Nissan Centro,,Carla Dias,1.0,277062.49,277062.49
-2025-08-03,2025,8,Leaf,Nissan Norte,Sudeste,Bruno Lima,5.0,327971.87,1639859.35
-2025-05-30,2025,5,Frontier,Nissan Oeste,Centro-Oeste,Diego Reis,2.0,262886.35,525772.7
-2025-06-27,2025,6,Frontier,Nissan Zona Sul,Centro-Oeste,Carla Dias,1.0,262373.12,262373.12
-2025-07-31,2025,7,Kicks,Nissan Oeste,Norte,Bruno Lima,8.0,135502.49,1084019.92
-2025-07-14,2025,7,Kicks,Nissan Centro,Nordeste,Diego Reis,3.0,144530.66,433591.98
-2025-05-06,2025,5,Sentra,Nissan Oeste,Sul,Elaine Costa,5.0,194105.72,970528.6
-2025-01-31,2025,1,Sentra,Nissan Zona Sul,Nordeste,Diego Reis,5.0,190762.61,953813.0499999999
-2025-02-18,2025,2,Leaf,Nissan Norte,Sul,Diego Reis,2.0,315491.89,630983.78
-2025-03-14,2025,3,Versa,Nissan Norte,Norte,Diego Reis,8.0,127498.07,1019984.56
-2025-04-07,2025,4,Frontier,Nissan Zona Sul,Sul,Bruno Lima,4.0,266326.76,1065307.04
-2025-06-30,2025,6,Frontier,Nissan Zona Sul,Sul,Bruno Lima,8.0,279611.07,2236888.56
-2025-04-23,2025,4,Kicks,Nissan Norte,Centro-Oeste,Diego Reis,1.0,140928.89,140928.89
-2025-03-09,2025,3,Versa,Nissan Norte,Centro-Oeste,Elaine Costa,2.0,127287.54,254575.08
-2025-05-05,2025,5,March,Nissan Centro,Norte,Carla Dias,2.0,88246.81,176493.62
-2025-07-14,2025,7,Kicks,Nissan Zona Sul,Sul,Ana Souza,5.0,144105.09,720525.45
-2025-02-07,2025,2,Sentra,Nissan Norte,Centro-Oeste,Ana Souza,3.0,184698.6,554095.8
-2025-08-22,2025,8,Leaf,Nissan Centro,,Diego Reis,8.0,330536.83,2644294.64
-2025-06-23,2025,6,March,Nissan Centro,Sudeste,Elaine Costa,8.0,96559.26,772474.08
-2025-08-05,2025,8,Versa,Nissan Centro,Centro-Oeste,Diego Reis,8.0,115663.79,925310.32
-2025-01-08,2025,1,Frontier,Nissan Zona Sul,Sudeste,Diego Reis,1.0,277778.85,277778.85
-2025-04-01,2025,4,Sentra,Nissan Oeste,Sul,Bruno Lima,5.0,197240.78,986203.9
-2025-07-21,2025,7,Frontier,Nissan Centro,Norte,Ana Souza,6.0,271753.76,1630522.56
-2025-02-03,2025,2,March,Nissan Zona Sul,Norte,Carla Dias,5.0,95216.53,476082.65
-2025-03-28,2025,3,Kicks,Nissan Zona Sul,Sudeste,Bruno Lima,3.0,141485.36,424456.07999999996
-2025-07-25,2025,7,March,Nissan Zona Sul,Sudeste,Elaine Costa,7.0,85662.85,599639.9500000001
-2025-06-06,2025,6,Sentra,Nissan Oeste,Sudeste,Carla Dias,8.0,202961.87,1623694.96
-2025-03-19,2025,3,Frontier,Nissan Centro,Sudeste,Bruno Lima,4.0,276989.36,1107957.44
-2025-05-19,2025,5,Frontier,Nissan Norte,Sul,Diego Reis,7.0,269136.36,1883954.52
-2025-04-05,2025,4,Sentra,Nissan Zona Sul,Centro-Oeste,Ana Souza,4.0,201629.62,806518.48
-2025-12-04,2025,12,Versa,Nissan Centro,Sudeste,Bruno Lima,8.0,115430.11,923440.88
-2025-03-27,2025,3,Sentra,Nissan Centro,Norte,Elaine Costa,4.0,182194.67,728778.68
-2025-02-07,2025,2,Leaf,Nissan Centro,Nordeste,Elaine Costa,3.0,345081.14,1035243.42
-2025-02-03,2025,2,Kicks,Nissan Zona Sul,Sul,Carla Dias,6.0,128526.96,771161.76
-2025-01-17,2025,1,Frontier,Nissan Zona Sul,,Bruno Lima,2.0,262277.78,524555.56
-2025-04-28,2025,4,Kicks,Nissan Centro,Centro-Oeste,Ana Souza,7.0,135731.1,950117.7000000001
-2025-03-24,2025,3,Leaf,Nissan Centro,Sudeste,Elaine Costa,3.0,315440.67,946322.01
-2025-04-27,2025,4,March,Nissan Norte,Centro-Oeste,Ana Souza,2.0,94779.22,189558.44
-2025-02-25,2025,2,Frontier,Nissan Zona Sul,Sul,Diego Reis,7.0,258455.89,1809191.23
-2025-06-20,2025,6,Versa,Nissan Zona Sul,Sul,Ana Souza,8.0,115047.28,920378.24
-2025-02-03,2025,2,March,Nissan Centro,Norte,Diego Reis,6.0,93339.16,560034.96
-2025-07-04,2025,7,Kicks,Nissan Zona Sul,Norte,Elaine Costa,5.0,134421.39,672106.9500000001
-2025-01-28,2025,1,Versa,Nissan Norte,Nordeste,Elaine Costa,2.0,125896.65,251793.3
-2025-03-31,2025,3,Kicks,Nissan Centro,Sul,Ana Souza,7.0,129471.22,906298.54
-2025-03-29,2025,3,Sentra,Nissan Zona Sul,Nordeste,Elaine Costa,6.0,199687.84,1198127.04
-2025-06-08,2025,6,Kicks,Nissan Oeste,Sudeste,Diego Reis,5.0,136026.63,680133.15
-2025-12-05,2025,12,Kicks,Nissan Zona Sul,Centro-Oeste,Elaine Costa,2.0,133220.98,266441.96
-2025-03-06,2025,3,Kicks,Nissan Centro,Sul,Bruno Lima,5.0,144840.44,724202.2
-2025-07-11,2025,7,Frontier,Nissan Centro,Sul,Bruno Lima,7.0,265001.28,1855008.9600000002
-2025-08-09,2025,8,Kicks,Nissan Zona Sul,Sudeste,Carla Dias,8.0,144416.4,1155331.2
-2025-03-16,2025,3,Kicks,Nissan Zona Sul,Sudeste,Elaine Costa,6.0,131266.37,787598.22
-2025-05-08,2025,5,Kicks,Nissan Centro,Centro-Oeste,Diego Reis,7.0,137445.54,962118.78
-2025-02-13,2025,2,Kicks,Nissan Norte,Sudeste,Carla Dias,4.0,144148.94,576595.76
-2025-02-03,2025,2,Kicks,Nissan Centro,Nordeste,Bruno Lima,4.0,131294.91,525179.64
-2025-06-10,2025,6,Frontier,Nissan Zona Sul,Norte,Elaine Costa,8.0,270022.31,2160178.48
-2025-06-10,2025,6,Versa,Nissan Centro,Centro-Oeste,Carla Dias,2.0,121315.17,242630.34
-2025-03-21,2025,3,Frontier,Nissan Zona Sul,Sudeste,Carla Dias,1.0,259463.33,259463.33
-2025-05-10,2025,5,Frontier,Nissan Zona Sul,Norte,Elaine Costa,1.0,262201.0,262201.0
-2025-06-06,2025,6,Sentra,Nissan Zona Sul,Nordeste,Carla Dias,5.0,190069.19,950345.95
-2025-01-17,2025,1,Versa,Nissan Centro,Norte,Elaine Costa,7.0,118432.69,829028.8300000001
-2025-08-23,2025,8,Versa,Nissan Zona Sul,Centro-Oeste,Ana Souza,3.0,123282.64,369847.92
-2025-06-21,2025,6,March,Nissan Centro,Centro-Oeste,Carla Dias,6.0,85713.3,514279.80000000005
-2025-05-02,2025,5,Sentra,Nissan Centro,Nordeste,Elaine Costa,2.0,193039.94,386079.88
-2025-08-13,2025,8,Leaf,Nissan Centro,Norte,Bruno Lima,7.0,310416.91,2172918.3699999996
-2025-01-12,2025,1,Frontier,Nissan Zona Sul,Sul,Diego Reis,8.0,267638.13,2141105.04
-2025-02-19,2025,2,Versa,Nissan Oeste,Norte,Carla Dias,8.0,121202.21,969617.68
-2025-07-29,2025,7,Sentra,Nissan Norte,Sul,Diego Reis,5.0,181788.84,908944.2
-2025-05-13,2025,5,Kicks,Nissan Zona Sul,Sudeste,Elaine Costa,3.0,133037.49,399112.47
-2025-08-15,2025,8,Versa,Nissan Centro,Centro-Oeste,Carla Dias,1.0,120184.68,120184.68
-2025-03-23,2025,3,Kicks,Nissan Oeste,Nordeste,Carla Dias,3.0,130664.87,391994.61
-2025-05-01,2025,5,Frontier,Nissan Norte,Sudeste,Bruno Lima,2.0,247642.33,495284.66
-2025-04-19,2025,4,Kicks,Nissan Zona Sul,Sul,Bruno Lima,5.0,130388.44,651942.2
-2025-08-03,2025,8,Frontier,Nissan Norte,Norte,Elaine Costa,1.0,268360.08,268360.08
-2025-04-01,2025,4,Sentra,Nissan Norte,Centro-Oeste,Ana Souza,3.0,196909.97,590729.91
-2025-07-21,2025,7,March,Nissan Norte,Sudeste,Ana Souza,7.0,95717.98,670025.86
-2025-04-02,2025,4,Kicks,Nissan Zona Sul,Sul,Carla Dias,2.0,141789.85,283579.7
-2025-02-14,2025,2,Frontier,Nissan Oeste,Centro-Oeste,Ana Souza,3.0,274428.62,823285.86
-2025-01-12,2025,1,Sentra,Nissan Centro,,Elaine Costa,5.0,193229.97,966149.85
-2025-04-02,2025,4,Kicks,Nissan Oeste,Nordeste,Carla Dias,5.0,130434.54,652172.7
-2025-04-09,2025,4,Versa,Nissan Centro,Centro-Oeste,Elaine Costa,8.0,119730.61,957844.88
-2025-06-04,2025,6,Sentra,Nissan Norte,Nordeste,Carla Dias,6.0,183034.17,1098205.02
-2025-02-12,2025,2,Frontier,Nissan Zona Sul,Centro-Oeste,Carla Dias,1.0,271566.33,271566.33
-2025-01-15,2025,1,Kicks,Nissan Oeste,Centro-Oeste,Bruno Lima,6.0,137254.66,823527.96
-2025-04-23,2025,4,Kicks,Nissan Centro,Sudeste,Carla Dias,4.0,141912.94,567651.76
-2025-06-23,2025,6,Frontier,Nissan Zona Sul,Nordeste,Elaine Costa,8.0,272792.26,2182338.08
-2025-03-05,2025,3,Kicks,Nissan Centro,Sul,Elaine Costa,8.0,137336.43,1098691.44
-2025-06-06,2025,6,Versa,Nissan Oeste,Centro-Oeste,Ana Souza,4.0,115913.14,463652.56
-2025-07-27,2025,7,Versa,Nissan Oeste,Nordeste,Carla Dias,2.0,122579.96,245159.92
-2025-06-29,2025,6,Sentra,Nissan Zona Sul,Norte,Bruno Lima,4.0,183497.65,733990.6
-2025-05-22,2025,5,Leaf,Nissan Zona Sul,Centro-Oeste,Ana Souza,3.0,329457.05,988371.1499999999
-2025-05-15,2025,5,Frontier,Nissan Zona Sul,Norte,Carla Dias,2.0,251236.05,502472.1
-2025-02-02,2025,2,March,Nissan Oeste,Norte,Bruno Lima,3.0,94483.05,283449.15
-2025-05-13,2025,5,Sentra,Nissan Zona Sul,Sul,Bruno Lima,3.0,188469.72,565409.16
-2025-03-06,2025,3,Sentra,Nissan Oeste,Norte,Carla Dias,5.0,183591.71,917958.5499999999
-2025-06-14,2025,6,Leaf,Nissan Zona Sul,Sul,Ana Souza,7.0,329713.31,2307993.17
-2025-03-19,2025,3,Frontier,Nissan Centro,Centro-Oeste,Ana Souza,5.0,262329.79,1311648.95
-2025-05-06,2025,5,Sentra,Nissan Zona Sul,Nordeste,Bruno Lima,6.0,204591.74,1227550.44
-2025-04-30,2025,4,Kicks,Nissan Zona Sul,Centro-Oeste,Ana Souza,4.0,130722.4,522889.6
-2025-08-10,2025,8,Sentra,Nissan Zona Sul,Norte,Bruno Lima,6.0,185188.9,1111133.4
-2025-05-08,2025,5,Kicks,Nissan Centro,,Bruno Lima,8.0,145215.35,1161722.8
-2025-08-14,2025,8,Frontier,Nissan Zona Sul,Norte,Diego Reis,1.0,275634.43,275634.43
-2025-04-04,2025,4,Kicks,Nissan Zona Sul,Sudeste,Carla Dias,4.0,134612.29,538449.16
-2025-09-06,2025,9,Leaf,Nissan Centro,Sul,Carla Dias,2.0,320386.39,640772.78
-2025-11-05,2025,11,Frontier,Nissan Norte,Sudeste,Carla Dias,1.0,248315.29,248315.29
-2025-05-12,2025,5,Sentra,Nissan Zona Sul,Norte,Elaine Costa,6.0,184513.8,1107082.7999999998
-2025-05-11,2025,5,March,Nissan Zona Sul,Norte,Ana Souza,5.0,91056.24,455281.2
-2025-07-23,2025,7,Kicks,Nissan Norte,Centro-Oeste,Elaine Costa,5.0,145222.09,726110.45
-2025-05-15,2025,5,Leaf,Nissan Zona Sul,Sul,Ana Souza,4.0,305313.33,1221253.32
-2025-06-26,2025,6,Sentra,Nissan Zona Sul,Norte,Ana Souza,8.0,202058.6,1616468.8
-2025-06-19,2025,6,Frontier,Nissan Norte,Centro-Oeste,Diego Reis,6.0,279335.97,1676015.8199999998
-2025-08-11,2025,8,Versa,Nissan Norte,Centro-Oeste,Carla Dias,4.0,128934.46,515737.84
-2025-06-30,2025,6,Sentra,Nissan Oeste,Centro-Oeste,Elaine Costa,6.0,192351.14,1154106.84
-2025-05-27,2025,5,March,Nissan Zona Sul,Centro-Oeste,Bruno Lima,6.0,96668.92,580013.52
-2025-08-25,2025,8,Frontier,Nissan Oeste,Nordeste,Elaine Costa,8.0,254232.75,2033862.0
-2025-07-06,2025,7,Leaf,Nissan Centro,Sul,Elaine Costa,1.0,331865.09,331865.09
-2025-07-03,2025,7,Frontier,Nissan Centro,Sul,Bruno Lima,1.0,279600.73,279600.73
-2025-02-21,2025,2,Versa,Nissan Zona Sul,Nordeste,Ana Souza,1.0,128163.82,128163.82
-2025-08-28,2025,8,Kicks,Nissan Centro,Centro-Oeste,Ana Souza,3.0,144640.34,433921.02
-2025-07-11,2025,7,Versa,Nissan Centro,Sudeste,Ana Souza,5.0,122860.21,614301.05
-2025-05-20,2025,5,March,Nissan Zona Sul,Sul,Ana Souza,8.0,88692.19,709537.52
-2025-02-17,2025,2,Kicks,Nissan Oeste,Nordeste,Bruno Lima,5.0,138214.56,691072.8
-2025-12-05,2025,12,Versa,Nissan Centro,Centro-Oeste,Bruno Lima,2.0,116882.59,233765.18
-2025-06-20,2025,6,Kicks,Nissan Zona Sul,Nordeste,Elaine Costa,3.0,135365.06,406095.18
-2025-06-13,2025,6,Versa,Nissan Zona Sul,Norte,Bruno Lima,4.0,117418.41,469673.64
-2025-06-29,2025,6,March,Nissan Zona Sul,Norte,Elaine Costa,4.0,94413.76,377655.04
-2025-03-04,2025,3,Kicks,Nissan Norte,Sudeste,Elaine Costa,1.0,142794.98,142794.98
-2025-05-14,2025,5,Frontier,Nissan Centro,Sul,Elaine Costa,8.0,250073.83,2000590.64
-2025-04-27,2025,4,Leaf,Nissan Centro,Norte,Carla Dias,8.0,331987.14,2655897.12
-2025-05-29,2025,5,Kicks,Nissan Centro,Centro-Oeste,Elaine Costa,6.0,140541.75,843250.5
-2025-05-01,2025,5,Kicks,Nissan Zona Sul,Centro-Oeste,Diego Reis,3.0,141745.46,425236.38
-2025-08-21,2025,8,Frontier,Nissan Zona Sul,Sudeste,Carla Dias,3.0,269089.45,807268.3500000001
-2025-06-07,2025,6,Sentra,Nissan Centro,Sudeste,Elaine Costa,5.0,191936.2,959681.0
-2025-03-30,2025,3,Sentra,Nissan Zona Sul,Sul,Diego Reis,2.0,181295.77,362591.54
-2025-01-18,2025,1,Kicks,Nissan Norte,,Ana Souza,8.0,138741.12,1109928.96
-2025-02-25,2025,2,Kicks,Nissan Centro,Norte,Elaine Costa,5.0,132359.53,661797.65
-2025-03-02,2025,3,Versa,Nissan Centro,Norte,Carla Dias,4.0,120451.54,481806.16
-2025-06-10,2025,6,Frontier,Nissan Norte,Centro-Oeste,Diego Reis,1.0,279863.41,279863.41
-2025-03-18,2025,3,Frontier,Nissan Centro,Norte,Bruno Lima,8.0,255144.72,2041157.76
+﻿id_venda,data,ano,mes,modelo,concessionaria,regiao,vendedor,unidades,preco_unitario,receita
+V0001,2025-06-13,2025,6,Kicks,Nissan Centro,Nordeste,Ana Souza,4,132167.35,528669.4
+V0002,2025-01-09,2025,1,Kicks,Nissan Centro,Sul,Ana Souza,4,137118.99,548475.96
+V0003,2025-02-26,2025,2,Frontier,Nissan Norte,Nordeste,Bruno Lima,1,272647.69,272647.69
+V0004,2025-07-15,2025,7,Versa,Nissan Centro,Sudeste,Carla Dias,7,115508.78,808561.46
+V0005,2025-01-02,2025,1,Frontier,Nissan Centro,Norte,Elaine Costa,5,275033.88,1375169.4
+V0006,2025-01-12,2025,1,Sentra,Nissan Zona Sul,Sudeste,Diego Reis,4,201902.15,807608.6
+V0007,2025-04-01,2025,4,Sentra,Nissan Oeste,Nordeste,Bruno Lima,2,195545.54,391091.08
+V0008,2025-08-25,2025,8,March,Nissan Centro,Nordeste,Ana Souza,1,88179.86,88179.86
+V0009,2025-05-26,2025,5,Versa,Nissan Centro,Centro-Oeste,Diego Reis,7,127801.06,894607.4199999999
+V0010,2025-09-03,2025,9,Leaf,Nissan Zona Sul,Norte,Bruno Lima,7,319059.05,2233413.35
+V0011,2025-02-09,2025,2,Sentra,Nissan Oeste,Centro-Oeste,Elaine Costa,2,190003.75,380007.5
+V0012,2025-01-03,2025,1,Kicks,Nissan Oeste,Norte,Carla Dias,5,141738.91,708694.55
+V0013,2025-04-07,2025,4,Versa,Nissan Norte,Sul,Carla Dias,2,127580.09,255160.18
+V0015,2025-03-03,2025,3,Leaf,Nissan Centro,Sudeste,Elaine Costa,8,337946.57,2703572.56
+V0016,2025-02-12,2025,2,Versa,Nissan Norte,Norte,Elaine Costa,7,129044.06,903308.4199999999
+V0017,2025-06-21,2025,6,Versa,Nissan Zona Sul,Não informado,Bruno Lima,8,115887.67,927101.36
+V0018,2025-02-26,2025,2,Kicks,Nissan Centro,Sudeste,Ana Souza,4,129432.88,517731.52
+V0019,2025-05-05,2025,5,Sentra,Nissan Norte,Sul,Diego Reis,8,186502.03,1492016.24
+V0020,2025-01-04,2025,1,Frontier,Nissan Zona Sul,Centro-Oeste,Ana Souza,1,269759.72,269759.72
+V0021,2025-02-18,2025,2,March,Nissan Zona Sul,Sul,Diego Reis,7,87646.81,613527.6699999999
+V0022,2025-08-08,2025,8,March,Nissan Centro,Sudeste,Bruno Lima,1,96837.26,96837.26
+V0023,2025-08-20,2025,8,Kicks,Nissan Centro,Centro-Oeste,Carla Dias,1,145542.17,145542.17
+V0024,2025-07-07,2025,7,March,Nissan Oeste,Centro-Oeste,Bruno Lima,3,87721.81,263165.43
+V0025,2025-03-22,2025,3,Kicks,Nissan Centro,Norte,Elaine Costa,8,137075.02,1096600.16
+V0026,2025-01-18,2025,1,Leaf,Nissan Centro,Sul,Elaine Costa,7,308987.28,2162910.96
+V0027,2025-06-18,2025,6,Leaf,Nissan Norte,Norte,Bruno Lima,6,342883.78,2057302.6800000002
+V0028,2025-06-21,2025,6,Versa,Nissan Zona Sul,Nordeste,Elaine Costa,2,114145.32,228290.64
+V0029,2025-05-10,2025,5,Versa,Nissan Centro,Nordeste,Carla Dias,2,127716.62,255433.24
+V0030,2025-06-06,2025,6,March,Nissan Centro,Norte,Ana Souza,5,96401.55,482007.75
+V0031,2025-07-10,2025,7,March,Nissan Centro,Nordeste,Carla Dias,5,92576.51,462882.55
+V0032,2025-03-06,2025,3,Kicks,Nissan Centro,Centro-Oeste,Carla Dias,5,129023.72,645118.6
+V0033,2025-04-24,2025,4,March,Nissan Oeste,Centro-Oeste,Bruno Lima,1,86808.92,86808.92
+V0034,2025-04-21,2025,4,Sentra,Nissan Centro,Nordeste,Ana Souza,6,202704.84,1216229.04
+V0035,2025-01-04,2025,1,March,Nissan Zona Sul,Norte,Bruno Lima,3,96331.44,288994.32
+V0036,2025-07-01,2025,7,Sentra,Nissan Oeste,Nordeste,Bruno Lima,7,200315.21,1402206.47
+V0037,2025-01-10,2025,1,Frontier,Nissan Centro,Sul,Bruno Lima,8,258818.45,2070547.6
+V0038,2025-08-10,2025,8,Kicks,Nissan Zona Sul,Não informado,Elaine Costa,7,140175.54,981228.78
+V0039,2025-09-03,2025,9,Kicks,Nissan Centro,Norte,Carla Dias,7,134316.81,940217.6699999999
+V0040,2025-05-28,2025,5,Sentra,Nissan Zona Sul,Sudeste,Elaine Costa,7,180541.77,1263792.39
+V0041,2025-04-04,2025,4,Frontier,Nissan Centro,Nordeste,Ana Souza,6,269422.5,1616535.0
+V0042,2025-03-25,2025,3,Frontier,Nissan Oeste,Nordeste,Diego Reis,3,253484.2,760452.6000000001
+V0043,2025-04-14,2025,4,March,Nissan Centro,Nordeste,Elaine Costa,5,87959.14,439795.7
+V0044,2025-02-24,2025,2,March,Nissan Zona Sul,Sul,Elaine Costa,2,88820.3,177640.6
+V0045,2025-02-27,2025,2,Sentra,Nissan Centro,Sudeste,Diego Reis,1,186547.61,186547.61
+V0046,2025-11-06,2025,11,Leaf,Nissan Centro,Não informado,Bruno Lima,8,320625.56,2565004.48
+V0047,2025-02-26,2025,2,Sentra,Nissan Oeste,Norte,Bruno Lima,8,181740.39,1453923.12
+V0048,2025-06-20,2025,6,March,Nissan Norte,Norte,Diego Reis,6,96615.46,579692.76
+V0049,2025-08-21,2025,8,March,Nissan Zona Sul,Sul,Bruno Lima,8,90765.82,726126.56
+V0050,2025-03-03,2025,3,Versa,Nissan Zona Sul,Sudeste,Carla Dias,5,117658.1,588290.5
+V0051,2025-09-04,2025,9,Sentra,Nissan Oeste,Sul,Carla Dias,2,190747.24,381494.48
+V0052,2025-04-10,2025,4,Leaf,Nissan Oeste,Sudeste,Carla Dias,7,323842.36,2266896.52
+V0053,2025-07-08,2025,7,March,Nissan Norte,Sul,Diego Reis,8,88067.23,704537.84
+V0054,2025-04-14,2025,4,Sentra,Nissan Zona Sul,Não informado,Elaine Costa,1,202901.14,202901.14
+V0055,2025-08-10,2025,8,Frontier,Nissan Centro,Sudeste,Bruno Lima,5,259813.71,1299068.55
+V0056,2025-01-08,2025,1,Frontier,Nissan Zona Sul,Sudeste,Elaine Costa,8,247655.16,1981241.28
+V0057,2025-07-19,2025,7,Kicks,Nissan Centro,Sul,Elaine Costa,4,142978.47,571913.88
+V0058,2025-02-25,2025,2,Frontier,Nissan Oeste,Nordeste,Elaine Costa,6,252671.27,1516027.6199999999
+V0059,2025-01-28,2025,1,Leaf,Nissan Centro,Nordeste,Bruno Lima,7,320500.82,2243505.74
+V0060,2025-06-28,2025,6,Versa,Nissan Oeste,Norte,Elaine Costa,2,126421.14,252842.28
+V0061,2025-01-18,2025,1,March,Nissan Oeste,Nordeste,Diego Reis,1,95440.03,95440.03
+V0062,2025-04-28,2025,4,Sentra,Nissan Zona Sul,Sul,Elaine Costa,5,195713.04,978565.2000000001
+V0063,2025-03-24,2025,3,Sentra,Nissan Centro,Nordeste,Diego Reis,8,186523.43,1492187.44
+V0064,2025-08-06,2025,8,Versa,Nissan Centro,Centro-Oeste,Carla Dias,4,119535.27,478141.08
+V0065,2025-05-23,2025,5,Kicks,Nissan Norte,Sul,Diego Reis,2,132485.8,264971.6
+V0066,2025-07-02,2025,7,Frontier,Nissan Zona Sul,Sudeste,Diego Reis,2,256945.16,513890.32
+V0067,2025-05-22,2025,5,March,Nissan Zona Sul,Centro-Oeste,Diego Reis,6,89616.18,537697.08
+V0068,2025-03-22,2025,3,Kicks,Nissan Oeste,Norte,Diego Reis,3,131611.54,394834.62
+V0069,2025-01-26,2025,1,Sentra,Nissan Zona Sul,Sul,Ana Souza,6,184932.21,1109593.26
+V0070,2025-05-22,2025,5,Versa,Nissan Oeste,Sul,Ana Souza,8,115600.37,924802.96
+V0071,2025-01-14,2025,1,Versa,Nissan Zona Sul,Sudeste,Ana Souza,2,120251.04,240502.08
+V0072,2025-05-25,2025,5,Versa,Nissan Centro,Sul,Diego Reis,2,122705.94,245411.88
+V0073,2025-08-04,2025,8,Frontier,Nissan Zona Sul,Nordeste,Elaine Costa,7,257321.85,1801252.95
+V0074,2025-02-23,2025,2,Sentra,Nissan Zona Sul,Não informado,Elaine Costa,3,186424.67,559274.01
+V0075,2025-05-01,2025,5,Versa,Nissan Centro,Sul,Diego Reis,5,125028.51,625142.5499999999
+V0076,2025-10-06,2025,10,Leaf,Nissan Oeste,Sul,Bruno Lima,7,308774.69,2161422.83
+V0077,2025-02-12,2025,2,Versa,Nissan Norte,Norte,Diego Reis,5,120850.79,604253.95
+V0078,2025-07-05,2025,7,Frontier,Nissan Centro,Não informado,Carla Dias,1,277062.49,277062.49
+V0079,2025-08-03,2025,8,Leaf,Nissan Norte,Sudeste,Bruno Lima,5,327971.87,1639859.35
+V0080,2025-05-30,2025,5,Frontier,Nissan Oeste,Centro-Oeste,Diego Reis,2,262886.35,525772.7
+V0081,2025-06-27,2025,6,Frontier,Nissan Zona Sul,Centro-Oeste,Carla Dias,1,262373.12,262373.12
+V0082,2025-07-31,2025,7,Kicks,Nissan Oeste,Norte,Bruno Lima,8,135502.49,1084019.92
+V0083,2025-07-14,2025,7,Kicks,Nissan Centro,Nordeste,Diego Reis,3,144530.66,433591.98
+V0084,2025-05-06,2025,5,Sentra,Nissan Oeste,Sul,Elaine Costa,5,194105.72,970528.6
+V0085,2025-01-31,2025,1,Sentra,Nissan Zona Sul,Nordeste,Diego Reis,5,190762.61,953813.0499999999
+V0086,2025-02-18,2025,2,Leaf,Nissan Norte,Sul,Diego Reis,2,315491.89,630983.78
+V0087,2025-03-14,2025,3,Versa,Nissan Norte,Norte,Diego Reis,8,127498.07,1019984.56
+V0088,2025-04-07,2025,4,Frontier,Nissan Zona Sul,Sul,Bruno Lima,4,266326.76,1065307.04
+V0089,2025-06-30,2025,6,Frontier,Nissan Zona Sul,Sul,Bruno Lima,8,279611.07,2236888.56
+V0090,2025-04-23,2025,4,Kicks,Nissan Norte,Centro-Oeste,Diego Reis,1,140928.89,140928.89
+V0091,2025-03-09,2025,3,Versa,Nissan Norte,Centro-Oeste,Elaine Costa,2,127287.54,254575.08
+V0092,2025-05-05,2025,5,March,Nissan Centro,Norte,Carla Dias,2,88246.81,176493.62
+V0093,2025-07-14,2025,7,Kicks,Nissan Zona Sul,Sul,Ana Souza,5,144105.09,720525.45
+V0094,2025-02-07,2025,2,Sentra,Nissan Norte,Centro-Oeste,Ana Souza,3,184698.6,554095.8
+V0095,2025-08-22,2025,8,Leaf,Nissan Centro,Não informado,Diego Reis,8,330536.83,2644294.64
+V0096,2025-06-23,2025,6,March,Nissan Centro,Sudeste,Elaine Costa,8,96559.26,772474.08
+V0097,2025-08-05,2025,8,Versa,Nissan Centro,Centro-Oeste,Diego Reis,8,115663.79,925310.32
+V0098,2025-01-08,2025,1,Frontier,Nissan Zona Sul,Sudeste,Diego Reis,1,277778.85,277778.85
+V0099,2025-04-01,2025,4,Sentra,Nissan Oeste,Sul,Bruno Lima,5,197240.78,986203.9
+V0100,2025-07-21,2025,7,Frontier,Nissan Centro,Norte,Ana Souza,6,271753.76,1630522.56
+V0101,2025-02-03,2025,2,March,Nissan Zona Sul,Norte,Carla Dias,5,95216.53,476082.65
+V0102,2025-03-28,2025,3,Kicks,Nissan Zona Sul,Sudeste,Bruno Lima,3,141485.36,424456.07999999996
+V0103,2025-07-25,2025,7,March,Nissan Zona Sul,Sudeste,Elaine Costa,7,85662.85,599639.9500000001
+V0105,2025-06-06,2025,6,Sentra,Nissan Oeste,Sudeste,Carla Dias,8,202961.87,1623694.96
+V0106,2025-03-19,2025,3,Frontier,Nissan Centro,Sudeste,Bruno Lima,4,276989.36,1107957.44
+V0107,2025-05-19,2025,5,Frontier,Nissan Norte,Sul,Diego Reis,7,269136.36,1883954.52
+V0108,2025-04-05,2025,4,Sentra,Nissan Zona Sul,Centro-Oeste,Ana Souza,4,201629.62,806518.48
+V0109,2025-12-04,2025,12,Versa,Nissan Centro,Sudeste,Bruno Lima,8,115430.11,923440.88
+V0110,2025-03-27,2025,3,Sentra,Nissan Centro,Norte,Elaine Costa,4,182194.67,728778.68
+V0111,2025-02-07,2025,2,Leaf,Nissan Centro,Nordeste,Elaine Costa,3,345081.14,1035243.42
+V0112,2025-02-03,2025,2,Kicks,Nissan Zona Sul,Sul,Carla Dias,6,128526.96,771161.76
+V0113,2025-01-17,2025,1,Frontier,Nissan Zona Sul,Não informado,Bruno Lima,2,262277.78,524555.56
+V0114,2025-04-28,2025,4,Kicks,Nissan Centro,Centro-Oeste,Ana Souza,7,135731.1,950117.7000000001
+V0115,2025-03-24,2025,3,Leaf,Nissan Centro,Sudeste,Elaine Costa,3,315440.67,946322.01
+V0116,2025-04-27,2025,4,March,Nissan Norte,Centro-Oeste,Ana Souza,2,94779.22,189558.44
+V0117,2025-02-25,2025,2,Frontier,Nissan Zona Sul,Sul,Diego Reis,7,258455.89,1809191.23
+V0118,2025-06-20,2025,6,Versa,Nissan Zona Sul,Sul,Ana Souza,8,115047.28,920378.24
+V0119,2025-02-03,2025,2,March,Nissan Centro,Norte,Diego Reis,6,93339.16,560034.96
+V0120,2025-07-04,2025,7,Kicks,Nissan Zona Sul,Norte,Elaine Costa,5,134421.39,672106.9500000001
+V0121,2025-01-28,2025,1,Versa,Nissan Norte,Nordeste,Elaine Costa,2,125896.65,251793.3
+V0123,2025-03-31,2025,3,Kicks,Nissan Centro,Sul,Ana Souza,7,129471.22,906298.54
+V0124,2025-03-29,2025,3,Sentra,Nissan Zona Sul,Nordeste,Elaine Costa,6,199687.84,1198127.04
+V0125,2025-06-08,2025,6,Kicks,Nissan Oeste,Sudeste,Diego Reis,5,136026.63,680133.15
+V0126,2025-12-05,2025,12,Kicks,Nissan Zona Sul,Centro-Oeste,Elaine Costa,2,133220.98,266441.96
+V0127,2025-03-06,2025,3,Kicks,Nissan Centro,Sul,Bruno Lima,5,144840.44,724202.2
+V0128,2025-07-11,2025,7,Frontier,Nissan Centro,Sul,Bruno Lima,7,265001.28,1855008.9600000002
+V0129,2025-08-09,2025,8,Kicks,Nissan Zona Sul,Sudeste,Carla Dias,8,144416.4,1155331.2
+V0130,2025-03-16,2025,3,Kicks,Nissan Zona Sul,Sudeste,Elaine Costa,6,131266.37,787598.22
+V0131,2025-05-08,2025,5,Kicks,Nissan Centro,Centro-Oeste,Diego Reis,7,137445.54,962118.78
+V0132,2025-02-13,2025,2,Kicks,Nissan Norte,Sudeste,Carla Dias,4,144148.94,576595.76
+V0133,2025-02-03,2025,2,Kicks,Nissan Centro,Nordeste,Bruno Lima,4,131294.91,525179.64
+V0134,2025-06-10,2025,6,Frontier,Nissan Zona Sul,Norte,Elaine Costa,8,270022.31,2160178.48
+V0135,2025-06-10,2025,6,Versa,Nissan Centro,Centro-Oeste,Carla Dias,2,121315.17,242630.34
+V0136,2025-03-21,2025,3,Frontier,Nissan Zona Sul,Sudeste,Carla Dias,1,259463.33,259463.33
+V0137,2025-05-10,2025,5,Frontier,Nissan Zona Sul,Norte,Elaine Costa,1,262201.0,262201.0
+V0139,2025-06-06,2025,6,Sentra,Nissan Zona Sul,Nordeste,Carla Dias,5,190069.19,950345.95
+V0140,2025-01-17,2025,1,Versa,Nissan Centro,Norte,Elaine Costa,7,118432.69,829028.8300000001
+V0141,2025-08-23,2025,8,Versa,Nissan Zona Sul,Centro-Oeste,Ana Souza,3,123282.64,369847.92
+V0142,2025-06-21,2025,6,March,Nissan Centro,Centro-Oeste,Carla Dias,6,85713.3,514279.80000000005
+V0143,2025-05-02,2025,5,Sentra,Nissan Centro,Nordeste,Elaine Costa,2,193039.94,386079.88
+V0144,2025-08-13,2025,8,Leaf,Nissan Centro,Norte,Bruno Lima,7,310416.91,2172918.3699999996
+V0145,2025-01-12,2025,1,Frontier,Nissan Zona Sul,Sul,Diego Reis,8,267638.13,2141105.04
+V0146,2025-02-19,2025,2,Versa,Nissan Oeste,Norte,Carla Dias,8,121202.21,969617.68
+V0147,2025-07-29,2025,7,Sentra,Nissan Norte,Sul,Diego Reis,5,181788.84,908944.2
+V0148,2025-05-13,2025,5,Kicks,Nissan Zona Sul,Sudeste,Elaine Costa,3,133037.49,399112.47
+V0149,2025-08-15,2025,8,Versa,Nissan Centro,Centro-Oeste,Carla Dias,1,120184.68,120184.68
+V0150,2025-03-23,2025,3,Kicks,Nissan Oeste,Nordeste,Carla Dias,3,130664.87,391994.61
+V0151,2025-05-01,2025,5,Frontier,Nissan Norte,Sudeste,Bruno Lima,2,247642.33,495284.66
+V0152,2025-04-19,2025,4,Kicks,Nissan Zona Sul,Sul,Bruno Lima,5,130388.44,651942.2
+V0153,2025-08-03,2025,8,Frontier,Nissan Norte,Norte,Elaine Costa,1,268360.08,268360.08
+V0154,2025-04-01,2025,4,Sentra,Nissan Norte,Centro-Oeste,Ana Souza,3,196909.97,590729.91
+V0155,2025-07-21,2025,7,March,Nissan Norte,Sudeste,Ana Souza,7,95717.98,670025.86
+V0156,2025-04-02,2025,4,Kicks,Nissan Zona Sul,Sul,Carla Dias,2,141789.85,283579.7
+V0157,2025-02-14,2025,2,Frontier,Nissan Oeste,Centro-Oeste,Ana Souza,3,274428.62,823285.86
+V0158,2025-01-12,2025,1,Sentra,Nissan Centro,Não informado,Elaine Costa,5,193229.97,966149.85
+V0159,2025-04-02,2025,4,Kicks,Nissan Oeste,Nordeste,Carla Dias,5,130434.54,652172.7
+V0160,2025-04-09,2025,4,Versa,Nissan Centro,Centro-Oeste,Elaine Costa,8,119730.61,957844.88
+V0161,2025-06-04,2025,6,Sentra,Nissan Norte,Nordeste,Carla Dias,6,183034.17,1098205.02
+V0162,2025-02-12,2025,2,Frontier,Nissan Zona Sul,Centro-Oeste,Carla Dias,1,271566.33,271566.33
+V0163,2025-01-15,2025,1,Kicks,Nissan Oeste,Centro-Oeste,Bruno Lima,6,137254.66,823527.96
+V0164,2025-04-23,2025,4,Kicks,Nissan Centro,Sudeste,Carla Dias,4,141912.94,567651.76
+V0165,2025-06-23,2025,6,Frontier,Nissan Zona Sul,Nordeste,Elaine Costa,8,272792.26,2182338.08
+V0166,2025-03-05,2025,3,Kicks,Nissan Centro,Sul,Elaine Costa,8,137336.43,1098691.44
+V0167,2025-06-06,2025,6,Versa,Nissan Oeste,Centro-Oeste,Ana Souza,4,115913.14,463652.56
+V0168,2025-07-27,2025,7,Versa,Nissan Oeste,Nordeste,Carla Dias,2,122579.96,245159.92
+V0169,2025-06-29,2025,6,Sentra,Nissan Zona Sul,Norte,Bruno Lima,4,183497.65,733990.6
+V0170,2025-05-22,2025,5,Leaf,Nissan Zona Sul,Centro-Oeste,Ana Souza,3,329457.05,988371.1499999999
+V0171,2025-05-15,2025,5,Frontier,Nissan Zona Sul,Norte,Carla Dias,2,251236.05,502472.1
+V0172,2025-02-02,2025,2,March,Nissan Oeste,Norte,Bruno Lima,3,94483.05,283449.15
+V0173,2025-05-13,2025,5,Sentra,Nissan Zona Sul,Sul,Bruno Lima,3,188469.72,565409.16
+V0174,2025-03-06,2025,3,Sentra,Nissan Oeste,Norte,Carla Dias,5,183591.71,917958.5499999999
+V0176,2025-06-14,2025,6,Leaf,Nissan Zona Sul,Sul,Ana Souza,7,329713.31,2307993.17
+V0177,2025-03-19,2025,3,Frontier,Nissan Centro,Centro-Oeste,Ana Souza,5,262329.79,1311648.95
+V0178,2025-05-06,2025,5,Sentra,Nissan Zona Sul,Nordeste,Bruno Lima,6,204591.74,1227550.44
+V0179,2025-04-30,2025,4,Kicks,Nissan Zona Sul,Centro-Oeste,Ana Souza,4,130722.4,522889.6
+V0180,2025-08-10,2025,8,Sentra,Nissan Zona Sul,Norte,Bruno Lima,6,185188.9,1111133.4
+V0181,2025-05-08,2025,5,Kicks,Nissan Centro,Não informado,Bruno Lima,8,145215.35,1161722.8
+V0182,2025-08-14,2025,8,Frontier,Nissan Zona Sul,Norte,Diego Reis,1,275634.43,275634.43
+V0183,2025-04-04,2025,4,Kicks,Nissan Zona Sul,Sudeste,Carla Dias,4,134612.29,538449.16
+V0184,2025-09-06,2025,9,Leaf,Nissan Centro,Sul,Carla Dias,2,320386.39,640772.78
+V0185,2025-11-05,2025,11,Frontier,Nissan Norte,Sudeste,Carla Dias,1,248315.29,248315.29
+V0186,2025-05-12,2025,5,Sentra,Nissan Zona Sul,Norte,Elaine Costa,6,184513.8,1107082.7999999998
+V0187,2025-05-11,2025,5,March,Nissan Zona Sul,Norte,Ana Souza,5,91056.24,455281.2
+V0188,2025-07-23,2025,7,Kicks,Nissan Norte,Centro-Oeste,Elaine Costa,5,145222.09,726110.45
+V0189,2025-05-15,2025,5,Leaf,Nissan Zona Sul,Sul,Ana Souza,4,305313.33,1221253.32
+V0190,2025-06-26,2025,6,Sentra,Nissan Zona Sul,Norte,Ana Souza,8,202058.6,1616468.8
+V0191,2025-06-19,2025,6,Frontier,Nissan Norte,Centro-Oeste,Diego Reis,6,279335.97,1676015.8199999998
+V0192,2025-08-11,2025,8,Versa,Nissan Norte,Centro-Oeste,Carla Dias,4,128934.46,515737.84
+V0193,2025-06-30,2025,6,Sentra,Nissan Oeste,Centro-Oeste,Elaine Costa,6,192351.14,1154106.84
+V0194,2025-05-27,2025,5,March,Nissan Zona Sul,Centro-Oeste,Bruno Lima,6,96668.92,580013.52
+V0195,2025-08-25,2025,8,Frontier,Nissan Oeste,Nordeste,Elaine Costa,8,254232.75,2033862.0
+V0196,2025-07-06,2025,7,Leaf,Nissan Centro,Sul,Elaine Costa,1,331865.09,331865.09
+V0197,2025-07-03,2025,7,Frontier,Nissan Centro,Sul,Bruno Lima,1,279600.73,279600.73
+V0198,2025-02-21,2025,2,Versa,Nissan Zona Sul,Nordeste,Ana Souza,1,128163.82,128163.82
+V0199,2025-08-28,2025,8,Kicks,Nissan Centro,Centro-Oeste,Ana Souza,3,144640.34,433921.02
+V0200,2025-07-11,2025,7,Versa,Nissan Centro,Sudeste,Ana Souza,5,122860.21,614301.05
+V0201,2025-05-20,2025,5,March,Nissan Zona Sul,Sul,Ana Souza,8,88692.19,709537.52
+V0202,2025-02-17,2025,2,Kicks,Nissan Oeste,Nordeste,Bruno Lima,5,138214.56,691072.8
+V0203,2025-12-05,2025,12,Versa,Nissan Centro,Centro-Oeste,Bruno Lima,2,116882.59,233765.18
+V0205,2025-06-20,2025,6,Kicks,Nissan Zona Sul,Nordeste,Elaine Costa,3,135365.06,406095.18
+V0206,2025-06-13,2025,6,Versa,Nissan Zona Sul,Norte,Bruno Lima,4,117418.41,469673.64
+V0207,2025-06-29,2025,6,March,Nissan Zona Sul,Norte,Elaine Costa,4,94413.76,377655.04
+V0208,2025-03-04,2025,3,Kicks,Nissan Norte,Sudeste,Elaine Costa,1,142794.98,142794.98
+V0209,2025-05-14,2025,5,Frontier,Nissan Centro,Sul,Elaine Costa,8,250073.83,2000590.64
+V0210,2025-04-27,2025,4,Leaf,Nissan Centro,Norte,Carla Dias,8,331987.14,2655897.12
+V0211,2025-05-29,2025,5,Kicks,Nissan Centro,Centro-Oeste,Elaine Costa,6,140541.75,843250.5
+V0212,2025-05-01,2025,5,Kicks,Nissan Zona Sul,Centro-Oeste,Diego Reis,3,141745.46,425236.38
+V0213,2025-08-21,2025,8,Frontier,Nissan Zona Sul,Sudeste,Carla Dias,3,269089.45,807268.3500000001
+V0214,2025-06-07,2025,6,Sentra,Nissan Centro,Sudeste,Elaine Costa,5,191936.2,959681.0
+V0215,2025-03-30,2025,3,Sentra,Nissan Zona Sul,Sul,Diego Reis,2,181295.77,362591.54
+V0216,2025-01-18,2025,1,Kicks,Nissan Norte,Não informado,Ana Souza,8,138741.12,1109928.96
+V0217,2025-02-25,2025,2,Kicks,Nissan Centro,Norte,Elaine Costa,5,132359.53,661797.65
+V0218,2025-03-02,2025,3,Versa,Nissan Centro,Norte,Carla Dias,4,120451.54,481806.16
+V0219,2025-06-10,2025,6,Frontier,Nissan Norte,Centro-Oeste,Diego Reis,1,279863.41,279863.41
+V0220,2025-03-18,2025,3,Frontier,Nissan Centro,Norte,Bruno Lima,8,255144.72,2041157.76
