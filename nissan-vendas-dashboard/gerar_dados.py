@@ -1,6 +1,9 @@
 # Script auxiliar so para GERAR os dados de exemplo (voce nao precisa mexer nele).
 import csv, random
 from datetime import date, timedelta
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
 
 random.seed(42)
 
@@ -36,14 +39,19 @@ for i in range(220):
     vend = random.choice(vendedores)
     if random.random() < 0.05: unidades = ""
     if random.random() < 0.05: reg = ""
-    linhas.append([formata_data(d), modelo, conc, reg, unidades, formata_preco(preco), vend])
+    id_venda = f"V{i + 1:04d}"
+    linhas.append([id_venda, formata_data(d), modelo, conc, reg, unidades, formata_preco(preco), vend])
 
 for _ in range(8):
-    linhas.append(random.choice(linhas[:]))  # duplicatas de proposito
+    linhas.append(random.choice(linhas[:]))  # duplicatas de proposito (mesmo id_venda)
 
-with open("dados/vendas_brutas.csv", "w", encoding="utf-8", newline="") as f:
+dados_dir = BASE_DIR / "dados"
+dados_dir.mkdir(exist_ok=True)
+arquivo_saida = dados_dir / "vendas_brutas.csv"
+
+with open(arquivo_saida, "w", encoding="utf-8", newline="") as f:
     w = csv.writer(f)  # o csv.writer poe aspas automaticamente quando precisa
-    w.writerow(["data","modelo","concessionaria","regiao","unidades","preco_unitario","vendedor"])
+    w.writerow(["id_venda","data","modelo","concessionaria","regiao","unidades","preco_unitario","vendedor"])
     w.writerows(linhas)
 
-print(f"Gerado dados/vendas_brutas.csv com {len(linhas)} linhas")
+print(f"Gerado {arquivo_saida} com {len(linhas)} linhas")
