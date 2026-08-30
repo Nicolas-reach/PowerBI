@@ -24,7 +24,7 @@ public class GeminiService {
         headers.setContentType(MediaType.APPLICATION_JSON);
 
        
-        String prompt = "Atue como um analista de dados sênior da Nissan. Analise os seguintes dados de vendas e crie um parágrafo de resumo gerencial curto. Dados: " + dadosDeVendas;
+        String prompt = "Atue como um analista de dados sênior da Nissan. Analise os seguintes dados de vendas e crie um resumo gerencial curto. Destaque os resultados de vendas por região e sugira duas estratégias práticas de melhoria baseadas nos números. Dados: " + dadosDeVendas;
         
         
         String requestBody = "{\"contents\":[{\"parts\":[{\"text\":\"" + prompt + "\"}]}]}";
