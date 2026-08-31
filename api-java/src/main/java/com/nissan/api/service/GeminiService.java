@@ -24,7 +24,7 @@ public class GeminiService {
         headers.setContentType(MediaType.APPLICATION_JSON);
 
        
-        String prompt = "Atue como um analista de dados sênior da Nissan. Analise os seguintes dados de vendas e crie um resumo gerencial curto. Destaque os resultados de vendas por região e sugira duas estratégias práticas de melhoria baseadas nos números. Dados: " + dadosDeVendas;
+        String prompt = "Atue como um analista de dados sênior da Nissan. Analise os seguintes dados de vendas e crie um resumo gerencial curto. Regra estrita: Baseie sua análise ÚNICA E EXCLUSIVAMENTE nos números fornecidos abaixo. Não invente informações de mercado, não presuma estratégias como agronegócio ou concorrência, e não calcule porcentagens que não possam ser extraídas diretamente destes dados. Sugira melhorias com base apenas no cruzamento de regiões e modelos. Dados: " + dadosDeVendas;
         
         
         String requestBody = "{\"contents\":[{\"parts\":[{\"text\":\"" + prompt + "\"}]}]}";

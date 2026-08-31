@@ -26,14 +26,15 @@ public class RelatorioController {
     public String gerarRelatorio() {
         System.out.println("Recebendo requisição para gerar relatório...");
         
-        // 1. Lê o CSV
-        List<String[]> dados = leitor.lerDadosDeVendas("vendas_teste.csv");
+        // 1. Lê o CSV oficial com o caminho completo (use barras normais /)
+        String caminhoArquivo = "C:/Users/user/OneDrive/Área de Trabalho/Projetos/vendas_tratadas.csv";
+        List<String[]> dados = leitor.lerDadosDeVendas(caminhoArquivo);
         
-        // 2. Monta o texto
+        // 2. Monta o texto enviando TODAS as colunas para a IA (Modelo, Região, Receita, etc)
         StringBuilder textoParaIA = new StringBuilder();
         for (String[] linha : dados) {
-            textoParaIA.append("Modelo: ").append(linha[1])
-                       .append(" - Valor: R$").append(linha[2]).append("; ");
+            // O String.join junta todas as informações da linha separadas por vírgula
+            textoParaIA.append(String.join(", ", linha)).append("; \n");
         }
         
         // 3. Pede para a IA e devolve como resposta da página web
